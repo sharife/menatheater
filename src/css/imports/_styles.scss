@@ -4,12 +4,199 @@
 
 /* Used in the navbar */
 .divider-grey {
-  box-shadow: inset 0 -4px 0 var(--grey-1);
+  box-shadow: inset 0 0 0 var(--grey-1);
   /* Link hover states */
-  & a {
+  & li {
     transition: var(--hover-transition);
   }
-  & ul a:hover, & ul a:focus {
-    box-shadow: inset 0 -4px 0 var(--primary);
+  & li ul {
+    transition: var(--opacity-transition);
+    transition-delay: 150ms;
+  }
+}
+
+footer a:hover {
+  color: var(--secondary);
+}
+
+
+.nav {
+    list-style: none;
+    font-weight: bold;
+    position: relative;
+    z-index: 10;
+}
+.nav li {
+    float: left;
+    margin-right: 10px;
+    position: relative;
+    padding: 0.5rem 1rem;
+}
+.nav a {
+    display: block;
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+}
+.nav a:hover {
+    text-decoration: none;
+}
+
+.nav ul {
+    list-style: none;
+    position: absolute;
+    margin-top: 10px;
+    left: -9999px; /* Hide off-screen when not needed (this is more accessible than display: none;) */
+    //box-shadow: 2px 2px 2px rgb(0 0 0 / 40%);
+    background: var(--secondary);
+    opacity: 0;
+}
+
+.nav ul li {
+    float: none;
+}
+
+.nav li:hover {
+    background: var(--secondary);
+}
+
+.nav li:hover ul { /* Display the dropdown on hover */
+    left: 0; /* Bring back on-screen when needed */
+    opacity: 1;
+}
+
+.nav li:hover a { /* These create persistent hover states, meaning the top-most link stays 'hovered' even when your cursor has moved down the list. */
+    color: white;
+}
+
+.nav li:hover ul a { /* The persistent hover state does however create a global style for links even before they're hovered. Here we undo these effects. */
+    text-decoration: none;
+}
+
+.nav ul a {
+    white-space: nowrap; /* Stop text wrapping and creating multi-line dropdown items */
+}
+
+.sub-menu li {
+  font-size: 0.9rem;
+  color: white;
+}
+
+.sub-menu li a:hover {
+  color: black;
+}
+
+
+.modal-window {
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.75);
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 999;
+  opacity: 0;
+  pointer-events: none;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  transition: all 0.3s;
+  &:target {
+    opacity: 1;
+    pointer-events: auto;
+  }
+  &>div {
+    width: 80%;
+    max-width: 640px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 2em;
+    background: white;
+    color: #333;
+  }
+  &>div .scrollme {
+    display: inline-block;
+    max-height:30rem;
+    overflow: scroll;
+  }
+  header {
+    font-weight: bold;
+  }
+  h1 {
+    font-size: 150%;
+    margin: 0 0 15px;
+    color: #333333;
+  }
+}
+
+.modal-close {
+  color: #aaa;
+  line-height: 50px;
+  font-size: 80%;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 0;
+  width: 70px;
+  text-decoration: none;
+  &:hover {
+    color: #000;
+  }
+}
+
+
+
+.image-container {
+  position: relative;
+  height: 12rem;
+  overflow-y: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  
+  img {
+    position: absolute;
+    animation-name: multiple-image-crossfade;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-duration: 16s;
+    &:nth-of-type(1) {
+      animation-delay: 12s;
+    }
+    &:nth-of-type(2) {
+      animation-delay: 8s;
+    }
+    &:nth-of-type(3) {
+      animation-delay: 4s;
+    }
+    &:nth-of-type(4) {
+      animation-delay: 0;
+    }
+  }
+}
+
+@keyframes multiple-image-crossfade {
+  0% {
+    opacity:1;
+  }
+  17% {
+    opacity:1;
+  }
+  25% {
+    opacity:0;
+  }
+  92% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+@media (--breakpoint-large) {
+  .image-container {
+    height: 20rem;
   }
 }

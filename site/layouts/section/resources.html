@@ -1,0 +1,53 @@
+{{ define "main" }}
+
+<!-- {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }} -->
+
+{{ if .Params.intro }}
+  {{ partial "short-text" (dict "heading" .Params.intro) }}
+{{ end }}
+
+
+<div class="mw7 center ph3 pv4">
+{{ if .Params.text }}
+  <p class="f4">{{ .Params.text }}</p>
+{{ end }}
+
+  {{ if .Params.values }}
+    {{ range $index, $element := .Params.values }}
+      {{ if modBool $index 2 }}
+        {{ partial "media-block" $element }}
+      {{ else }}
+        {{ partial "media-block-reverse" $element }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ if .Params.board }}
+    <div class="mw7">
+      {{ partial "grid" (dict "group" .Params.board "pageUrl" .Permalink) }}
+    </div>
+  {{ end }}
+
+  {{ if .Content }}
+    <div class="cms mw7">
+      {{ .Content }}
+    </div>
+  {{ end }}
+
+  {{ if .Params.orgs }}
+    <div class="mw7">
+      {{ partial "list" (dict "list" .Params.orgs "pageUrl" .Permalink) }}
+    </div>
+  {{ end }}
+
+  {{ if .Params.partners }}
+    <div class="mw7">
+      {{ partial "list" (dict "list" .Params.partners "pageUrl" .Permalink) }}
+    </div>
+  {{ end }}
+
+  
+
+</div>
+
+{{ end }}

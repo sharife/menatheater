@@ -1,46 +1,45 @@
+<img src="/img/script-bg.png" class="w-100" style="margin-bottom: -10px;" />
 <footer class="bg-black ph3 pv4 white">
 
 	<div class="mw7 center pt3">
 
-		<div class="measure-narrow center mb4">
-
-			<img src="/img/logo.svg" alt="Kaldi logo" class="db w4 center mb4 br0">
-			<p class="f3 lh-title light-gray b tc mb2">{{ .Site.Data.footer.title }}</p>
-			<p>{{ .Site.Data.footer.blurb }}</p>
-
-			{{ partial "newsletter-form" . }}
-
-		</div>
-
 		<div class="flex-ns justify-between">
 
 			<div>
-				<h3 class="f4 b lh-title mb1 primary">Kaldi</h3>
-				<ul class="mb3">
-					<li><a href="/" class="link">Home</a></li>
-					<li><a href="/products" class="link">Our products</a></li>
-					<li><a href="/values" class="link">About</a></li>
-					<li><a href="/post" class="link">Blog</a></li>
-					<li><a href="/contact" class="link">Contact</a></li>
-				</ul>
+				<img src="/img/logo-white.svg" alt="logo" class="db center mb3 br0" style="width:12rem;">
 			</div>
 
-			<div>
-				<h3 class="f4 b lh-title mb1 primary">Find out more</h3>
-				<ul class="mb3">
-					<li><a href="/post/jamaica-blue/" class="link">Latest offers</a></li>
-					<li><a href="/contact" class="link">Schedule an appointment</a></li>
-				</ul>
-			</div>
+			<div class="flex">
+				<ul class="f6 mb3 pr4-l center">
+					<li class="mb2"><a href="/" class="no-underline bb">Home</a></li>
+					{{ range first 2 (.Site.Menus.primary) }}
+	                <li class="mb2">
+	                        <a href="{{ .URL }}" class="no-underline bb">
+	                            {{ .Name }}
+	                        </a>
+	                    </li>
+	            	{{ end }}
 
-			<div>
-				<h3 class="f4 b lh-title mb2 primary">Social media</h3>
-				<ul class="mhn2">
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-facebook" "alt" "Kaldi on Facebook") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-twitter" "alt" "Kaldi on Twitter") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram" "alt" "Kaldi on Instagram") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-vimeo" "alt" "Kaldi on Vimeo") }}
+	            </ul>
+	            <ul class="f6 mb3 center">
+	            	{{ range last 3 (.Site.Menus.primary) }}
+	                <li class="mb2">
+	                        <a href="{{ .URL }}" class="no-underline bb">
+	                            {{ .Name }}
+	                        </a>
+	                    </li>
+	            	{{ end }}
+	            </ul>
+				<!-- <ul class="f6 mb3 pr4-l center">
+					<li class="mb2"><a href="/" class="no-underline bb">Home</a></li>
+					<li class="mb2"><a href="/news" class="no-underline bb">News</a></li>
+					<li class="mb2"><a href="/events" class="no-underline bb">Events</a></li>
 				</ul>
+				<ul class="f6 mb3 center">
+					<li class="mb2"><a href="/resources" class="no-underline bb">Resources</a></li>
+					<li class="mb2"><a href="/about" class="no-underline bb">About Us</a></li>
+					<li class="mb2"><a href="/contact" class="no-underline bb">Contact</a></li>
+				</ul> -->
 			</div>
 
 		</div>

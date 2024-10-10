@@ -1,0 +1,78 @@
+<div class="pv3">
+  <div class="mw7 center">
+    {{ if .group.heading }}
+      <h2 class="f3 b lh-title mb2">{{.group.heading}}</h2>
+    {{ end }}
+    {{ if .group.text }}
+      <p class="mb4 mw6">{{.group.text}}</p>
+    {{ end }}
+
+    <div class="flex flex-wrap mhn2">
+      {{ range .group.items }}
+      <div class="w-40 w-20-ns mb4 mr3">
+        {{ if .image }}
+          <div class="w-100">
+          {{ if .bio }}<a href="{{ $.pageUrl }}#open-modal-{{.name}}">{{ end }}
+            <img src="{{.image}}" alt="" class="db mr1 mb1 br0">
+          {{ if .bio }}</a>{{ end }}
+          </div>
+        {{ end }}
+          <div class="w-100">
+            {{ if .name }}
+              <div class="f6 b mb0">
+                {{ if .link }}
+                  <a href="{{.link}}" target="_blank">
+                {{ end }}
+                {{.name}}
+                {{ if .link }}
+                  </a>
+                {{ end }}
+              </div>
+            {{ end }}
+            {{ if .org }}
+              <p class="f7 mb0">{{.org}}</p>
+            {{ end }}
+            {{ if .loc }}
+              <p class="f7 mb0">{{.loc}}</p>
+            {{ end }}
+            {{ if .bio }}
+              <p class="f7 mb0"><a href="{{ $.pageUrl }}#open-modal-{{.name}}" class="link b">→ Bio</a></p>
+              <div id="open-modal-{{.name}}" class="modal-window">
+                <div>
+                  <a href="{{ $.pageUrl }}#!" title="Close" class="modal-close"><img src="/img/close-button.svg" alt="close" class="w-40 mt2 ml3"></a>
+                  <div class="scrollme">
+                    {{ if .image }}
+                      <img src="{{.image}}" alt="" class="db mb1 w-40 br0 pr3" align="left">
+                    {{ end }}
+                    <p class="f5 b mb0">
+                      {{ if .link }}
+                        <a href="{{.link}}" target="_blank">
+                      {{ end }}
+                      {{.name}}
+                      {{ if .link }}
+                        </a>
+                      {{ end }}
+                    </p>
+                    {{ if .org }}
+                      <p class="f7 mb0">{{.org}}</p>
+                    {{ end }}
+                    {{ if .loc }}
+                      <p class="f7 mb0">{{.loc}}</p>
+                    {{ end }}
+                    <p class="cms f7 mb1 mt2">{{.bio | markdownify}}</p>
+                  </div>
+                </div>
+              </div>
+            {{ end }}
+          </div>
+      </div>
+        {{ if .text }}
+        <div class="w-100 mb4">
+          <p class="f6 mb0">{{.text | markdownify}}</p>
+        </div>
+        {{ end }}
+      {{ end }}
+    </div>
+
+  </div>
+</div>

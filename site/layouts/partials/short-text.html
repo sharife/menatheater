@@ -1,6 +1,6 @@
-<div class="bg-grey-1 pv4">
+<div class="bg-primary white pv4">
   <div class="flex-l mhn1-l ph3 center mw7">
-    <h2 class="f2 b lh-title mb2 w-40-l">{{.heading}}</h2>
-    <p class="w-60-l mb0">{{.text}}</p>
+    {{ if .heading }}<h3 class="f3 b bg-primary lh-title mb0 mb2 w-60-l pr3-l">{{.heading}}</h3>{{ end }}
+    <div class="mb0">{{.text | markdownify }}</div>
   </div>
 </div>

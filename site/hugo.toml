@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "Kaldi"
+title = "MENA Theater Makers Alliance"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
@@ -10,3 +10,56 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
 images = ["img/og-image.jpg"]
+
+
+[menu]
+	[[menu.primary]]
+	identifier = "news"
+	name = "News"
+	url = "/news"
+	weight = 1
+
+	[[menu.primary]]
+	identifier = "events"
+	name = "Programs"
+	url = "/programs"
+	weight = 2
+
+	[[menu.primary]]
+	identifier = "resources"
+	name = "Resources"
+	url = "/resources"
+	weight = 3
+
+	[[menu.primary]]
+	identifier = "about"
+	name = "About Us"
+	url = "/about"
+	weight = 4
+
+		[[menu.primary]]
+		parent = "about"
+		identifier = "mission"
+		name = "Mission"
+		url = "/about/mission"
+		weight = 10
+
+		[[menu.primary]]
+		parent = "about"
+		identifier = "community"
+		name = "Community"
+		url = "/about/community"
+		weight = 11
+
+		[[menu.primary]]
+		parent = "about"
+		identifier = "history"
+		name = "History"
+		url = "/about/history"
+		weight = 12
+
+	[[menu.primary]]
+	identifier = "contact"
+	name = "Contact"
+	url = "/contact"
+	weight = 5

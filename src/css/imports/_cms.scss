@@ -27,6 +27,19 @@
     font-size: .875rem;
   }
 
+  & h6 {
+    font-size: .75rem;
+    font-weight: normal;
+    line-height: 1.1rem;
+    margin-bottom: 1.5rem;
+    margin-left: 1.33rem;
+    margin-top: -1.2rem;
+  }
+
+  hr {
+  	margin-bottom: 2rem;
+  }
+
 	/* Images */
 	& img {
 		display: block;
@@ -39,6 +52,7 @@
 	/* Links */
 	& a {
 		color: var(--primary);
+		font-weight: bold;
 		transition: var(--hover-transition);
 		&:hover {
 			background-color: var(--highlight);
@@ -62,10 +76,13 @@
 	& ul {
 		margin-left: 1.33rem;
 		& >li:before {
-			content: '✱';
+			content: '•';
 			left: -1.33rem;
 			position: absolute;
 			color: var(--primary);
+		}
+		& >li {
+		  padding-bottom: 0.7rem;
 		}
 	}
 
