@@ -104,9 +104,10 @@
 
   /* Blockquotes */
   & blockquote {
-    background-color: var(--grey-1);
+    //background-color: var(--grey-1);
     display: block;
-    border-radius: var(--border-radius);
+    //border-radius: var(--border-radius);
+    border-left: 4px solid var(--primary);
     padding: var(--spacing-medium);
     color: var(--primary);
     font-weight: 700;

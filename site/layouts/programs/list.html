@@ -1,13 +1,12 @@
 {{ define "main" }}
 
-<!-- {{ partial "jumbotron" (dict "imageUrl" "/img/blog-index.jpg" "title" "Latest stories") }} -->
-
 {{ partial "short-text" (dict "heading" .Title) }}
 
 <div class="mw7 center">
-  <ul id="blog-list" class="pa3 flex-ns">
+  <p class="f5 pa3 pb0">MENATMA provides a multitude of programming for MENA creatives and organizations, including convenings, networking and mentorship opportunities, and marketing support. We will be launching a granting program in early 2026.</p>
+  <ul id="blog-list" class="pa3 flex-ns flex-wrap mhn2-ns">
       {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
-          <li class="w-50-ns pt3 mr2-ns flex-ns">
+          <li class="w-50-ns pt3 pr3">
             {{ .Render "li"}}
           </li>
       {{ end }}

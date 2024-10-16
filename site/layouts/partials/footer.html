@@ -1,4 +1,5 @@
-<img src="/img/script-bg.png" class="w-100" style="margin-bottom: -10px;" />
+<!-- <img src="/img/script-bg.png" class="w-100" style="margin-bottom: -10px;" /> -->
+<div class="bottom" style="padding-top: 10rem; margin-bottom: -2rem;"></div>
 <footer class="bg-black ph3 pv4 white">
 
 	<div class="mw7 center pt3">
@@ -7,6 +8,14 @@
 
 			<div>
 				<img src="/img/logo-white.svg" alt="logo" class="db center mb3 br0" style="width:12rem;">
+			</div>
+
+			<div>
+				<ul class="mhn2 tc ma3">
+					{{ partial "social-icon" (dict "link" "https://www.facebook.com/menatheatermakers" "svg" "icons-facebook") }}
+					<!-- {{ partial "social-icon" (dict "link" "https://twitter.com/menatheatermakers" "svg" "icons-twitter") }} -->
+					{{ partial "social-icon" (dict "link" "https://www.instagram.com/menatheatermakers/" "svg" "icons-instagram") }}
+				</ul>
 			</div>
 
 			<div class="flex">
@@ -30,20 +39,17 @@
 	                    </li>
 	            	{{ end }}
 	            </ul>
-				<!-- <ul class="f6 mb3 pr4-l center">
-					<li class="mb2"><a href="/" class="no-underline bb">Home</a></li>
-					<li class="mb2"><a href="/news" class="no-underline bb">News</a></li>
-					<li class="mb2"><a href="/events" class="no-underline bb">Events</a></li>
-				</ul>
-				<ul class="f6 mb3 center">
-					<li class="mb2"><a href="/resources" class="no-underline bb">Resources</a></li>
-					<li class="mb2"><a href="/about" class="no-underline bb">About Us</a></li>
-					<li class="mb2"><a href="/contact" class="no-underline bb">Contact</a></li>
-				</ul> -->
 			</div>
 
 		</div>
 	</div>
 
 </footer>
+
+<script src="/js/perfundo.min.js"></script>
+{{ if .Params.photos}}
+<script>
+  perfundo('.perfundo1');
+</script>
+{{ end }}
 

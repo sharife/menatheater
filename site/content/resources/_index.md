@@ -1,6 +1,5 @@
 ---
 title: "Resources"
-image: /img/about-jumbotron.jpg
 intro: Find resources and support organizations to help advance representation and amplify artistic voices from the region.
 orgs: 
   heading: MENA Theater Organizations
@@ -37,13 +36,3 @@ orgs:
 
 ## Bill of Rights 
 An [open letter and a bill of rights](https://www.americantheatre.org/2017/09/29/middle-eastern-american-theatre-on-our-terms/), in the interest of more stage works representing the full diversity and humanity of Middle Eastern Americans.
-
-## MENA Convenings  
-[Fall 2021 Digital Convening](/programs/2021-convening)  
-Hosted by MENATMA, and sponsored by The Rutherford Initiative, University of Oregon, Golden Thread Productions, Noor Theatre, and Art2Action, Inc. (November 5-7, 2021)  
-
-[ReOrient 2019: National Convening of Middle East and North African Theatre Artists](https://howlround.com/happenings/reorient-2019-national-convening-middle-east-and-north-african-theatre-artists)
-Hosted by Golden Thread, San Francisco (November 9-10, 2019)  
-
-[Middle East America Convening 2016](https://howlround.com/middle-east-america-convening-may-18-19-2016-lark)  
-Hosted by The Lark, New York City (May 18-19, 2016)  

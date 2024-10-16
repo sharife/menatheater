@@ -14,5 +14,10 @@
       <!-- {{ with .Resources.Get .Params.image }}<img src="{{ .RelPermalink }}" alt="{{ $.Title }}" />{{ end }} -->
       {{ .Content }}
     </div>
+    {{ if .Params.photos }}
+      <div class="center pt3 mw6">
+          {{ partial "gallery" (dict "photos" .Params.photos "pageUrl" .Permalink "galleryID" "1") }}
+      </div>
+    {{ end }}
   </div>
 {{ end }}
