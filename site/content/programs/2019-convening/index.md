@@ -2,7 +2,7 @@
 title: 2019 Convening
 date: 2019-11-04T15:04:10.000Z
 description: Hosted by Golden Thread in San Francisco during the ReOrient Festival, November 9-10, 2019
-image: /img/fpo.png
+image: /img/2019-convening.jpg
 ---
 
 ### ReOrient 2019: National Convening of Middle East and North African Theatre Artists
