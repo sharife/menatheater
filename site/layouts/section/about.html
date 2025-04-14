@@ -11,7 +11,8 @@
     {{ $currentPage := . }}
     {{ range .Site.Menus.primary }}
         {{ if .HasChildren }}
-              {{ range .Children }}
+            {{ range .Children }}
+              {{ if strings.Contains .URL "about" }}
                 {{ if strings.Contains $currentPage .URL }}
                     <div class="btn bg-primary white">
                        {{ .Name }}
@@ -22,6 +23,7 @@
                     </div>
                   {{ end }}
               {{ end }}
+            {{ end }}
         {{ end }}
     {{ end }}
   </div>

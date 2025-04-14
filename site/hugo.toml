@@ -15,14 +15,14 @@ images = ["img/og-image.jpg"]
 [menu]
 	[[menu.primary]]
 	identifier = "news"
-	name = "News"
-	url = "/news"
+	name = "Announcements"
+	url = "/announcements"
 	weight = 1
 
 	[[menu.primary]]
 	identifier = "events"
-	name = "Programs"
-	url = "/programs"
+	name = "Convenings"
+	url = "/convenings"
 	weight = 2
 
 	[[menu.primary]]
