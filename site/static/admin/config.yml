@@ -11,6 +11,8 @@ collections: # A list of collections the CMS should be able to edit
     folder: "site/content/announcements" # The path to the folder where the documents are stored
     path: "{{slug}}/index" # Each document is inside a folder with the slug name.
     create: true # Allow users to create new documents in this collection
+    editor:
+      preview: false
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
@@ -36,6 +38,8 @@ collections: # A list of collections the CMS should be able to edit
     folder: "site/content/convenings" # The path to the folder where the documents are stored
     path: "{{slug}}/index" # Each document is inside a folder with the slug name.
     create: true # Allow users to create new documents in this collection
+    editor:
+      preview: false
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
@@ -44,6 +48,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Image", name: "image", widget: "image"}
   - name: "pages"
     label: "Pages"
+    editor:
+      preview: false
     files:
       - file: "site/content/_index.md"
         label: "Home Page"
