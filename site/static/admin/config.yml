@@ -50,16 +50,10 @@ collections: # A list of collections the CMS should be able to edit
         name: "home"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Heading, name: heading, widget: string}
-          - {label: Intro, name: intro, widget: text}
+          - {label: Heading, name: heading, widget: text}
+          - {label: Intro, name: intro, widget: markdown}
           - {label: "Slideshow", name: slideshow, widget: object, fields: [
               {label: "Image", name: "image", widget: "image"}]}
-      - file: "site/content/contact/_index.md"
-        label: "Contact Page"
-        name: "contact"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Body, name: body, widget: markdown}
       - file: "site/content/grants/_index.md"
         label: "Grants Page"
         name: "grants"
@@ -86,6 +80,12 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: Link, name: link, widget: string}
                   - {label: Text, name: text, widget: markdown}
                   - {label: Image, name: image, widget: image}
+      - file: "site/content/contact/_index.md"
+        label: "Contact Page"
+        name: "contact"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
   - name: "site_settings"
     label: "Site Settings"
     files:
