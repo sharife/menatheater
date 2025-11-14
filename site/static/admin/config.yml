@@ -52,8 +52,11 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Heading, name: heading, widget: text}
           - {label: Intro, name: intro, widget: markdown}
-          - {label: "Slideshow", name: slideshow, widget: object, fields: [
-              {label: "Image", name: "image", widget: "image"}]}
+          - label: "Slideshow"
+            name: slideshow
+            widget: object
+            fields:
+              - {label: "Image", name: "image", widget: "image"}
       - file: "site/content/grants/_index.md"
         label: "Grants Page"
         name: "grants"
