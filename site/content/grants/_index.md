@@ -1,21 +1,116 @@
 ---
-title: "Grants"
-intro: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+title: The MENA Theater Makers Fund
+intro: The MENA Theater Makers Fund offers general operating support and
+  cohort-based engagement to under-resourced arts and culture organizations that
+  support and uphold MENA communities.
 ---
+## Introduction
 
-## Aliquam Erat Volutpat
-Suspendisse vel viverra magna, a laoreet metus. Vivamus egestas finibus tincidunt. Phasellus non magna eget libero consectetur volutpat id ac felis. Ut est nisi, dictum nec tempor at, blandit eu dui. Etiam metus tellus, mollis quis ligula ac, pretium accumsan mauris. Pellentesque ac egestas nisi. Donec in metus ac risus iaculis viverra. Donec vel quam in mauris congue vehicula sed eu purus. Sed sed dolor leo. Donec ut vehicula nisl, eget convallis libero. Aliquam purus tellus, egestas sit amet erat et, fermentum pellentesque augue. Donec mattis posuere nulla at cursus.
+Middle Eastern North African Theater Makers Alliance (MENATMA) is proud to launch the **MENA Theater Makers Fund**, a new national grant initiative supported by **Alternate ROOTS**, **National Association of Latino Arts and Cultures (NALAC)**, **First Peoples Fund**, and **The Wallace Foundation’s Advancing Wellbeing in the Arts initiative**, and in partnership with the **National Arts Regranting Partners**. 
 
-> Suspendisse varius eros urna, vel tempus tortor pulvinar vitae. Praesent vel turpis est. 
+This program aims to serve as a catalyst for sustainability and innovation in the theater field, providing MENA cultural producers in the United States with critical funding to invest in their creative capacity to make lasting contributions to their communities and society. 
 
-Fusce aliquet fermentum rutrum. Maecenas placerat dolor tortor, et vestibulum libero congue eu. Praesent pellentesque, dui quis tempor faucibus, nunc orci tristique ex, vitae pulvinar orci metus ac est. Nunc pretium tellus id risus volutpat, sit amet euismod lectus lobortis. Sed facilisis lorem fermentum, efficitur nisl vitae, auctor magna. Cras vel molestie erat. Pellentesque id risus suscipit, maximus nibh nec, sagittis arcu. Phasellus eleifend magna nec gravida dictum. Suspendisse potenti. Praesent dignissim arcu cursus placerat posuere. Etiam vulputate est at orci varius, in ornare felis eleifend. Nunc eu quam ac ligula efficitur dictum id in nibh. Morbi in nisl cursus, convallis nisl vel, interdum diam. Nunc eu tellus luctus, porttitor ipsum eu, egestas magna.
+The MENA Theater Makers Fund offers general operating support and cohort-based engagement to under-resourced arts and culture organizations that support and uphold MENA communities. Eligible theater organizations must have annual operating budgets of under $500,000. Through an open application process, MENATMA will award $800,000 in total funding, awarding $30,000 to $45,000 each in unrestricted funding to theater organizations across the U.S. 
 
-#### Integer efficitur diam nec leo luctus consectetur sit amet ac ipsum. 
-- Morbi ornare nunc id ante consectetur iaculis. 
-- Aenean eu tellus maximus, iaculis ligula vel, ultricies nulla. 
-- Duis lobortis justo eu augue egestas suscipit. 
-- Integer lacinia nibh quis congue elementum. 
+Awardees will have access to additional funds to distribute to artists in their communities, selected by the awardee. More information to come.
 
-Mauris vehicula condimentum nisl non porttitor. Donec suscipit dui risus, eget placerat leo laoreet ac. Sed erat sem, sodales in quam at, sagittis viverra lectus. Aenean vulputate ligula nec nisl fringilla, a venenatis urna ultrices. Pellentesque porta hendrerit consectetur. Integer sit amet eleifend risus, eget pharetra enim. Vestibulum ullamcorper, risus nec sollicitudin egestas, felis justo mollis eros, sit amet cursus velit arcu ac nunc. Morbi et aliquam odio. Nullam quis feugiat nisi.
 
-Nulla egestas molestie ante sit amet vulputate. Donec varius justo eleifend eros fermentum, id placerat massa hendrerit. Ut interdum tempor tempus. Vestibulum dignissim odio id eleifend lacinia. Proin auctor pellentesque ipsum non pulvinar. Sed nec tellus vitae turpis laoreet gravida ac ac metus. Fusce rutrum vulputate diam, ac tempus velit pulvinar ac. Nunc risus ipsum, faucibus sit amet velit non, vestibulum ornare massa.
+
+## Program Objectives
+
+* **Celebrate the longevity** of organizations that have helped build the field of MENA Theater.
+* **Sustain the creation and presentation of works** by MENA artists and arts organizations.
+* **Build the capacity** of MENA theater organizations and artists.
+* **Support the creative expression of artists** that exhibit a high level of artistic excellence and innovation.
+* **Empower MENA artists and arts organizations** in their efforts to promote social justice and social change through the arts.
+* **Strengthen communities** by investing in cultural assets and human and MENA social capital in the U.S.
+
+
+
+## Cohort Model
+
+In addition to funding, grantee partners will also be invited to participate in a cohort engagement model, expanding MENATMA’s national community of peer organizations and artists. This cohort will foster collaboration, knowledge exchange, and mutual support among those committed to sustaining and creating theater by MENA artists and serving our diaspora MENA communities.
+
+* **MENATMA will host virtual networking sessions** through the grant period to provide space for organizations to exchange ideas, share resources, and build connections.
+* All grantees will be invited and given financial support to **attend MENATMA’s next biannual convening** which is scheduled in San Francisco in Fall 2026.
+* In addition, MENATMA staff and/or board members will offer **one-on-one check-ins with each grantee** to provide personalized support throughout the grant program.
+
+
+
+## Timeline
+
+* Applications open: January 12, 2026
+* Online informational session: Monday, February 2, 2026.
+
+  * Note: A recording will be available for those who cannot attend.
+* Applications close: March 20, 2026
+* All applicants will be notified: End of June, 2026
+* Public Announcement of the awards: July 4, 2026
+* Grant period: July 2026–June 2028
+* Midterm check in with awardees: July 2027
+* Final check in with awardees: July 2028
+
+
+
+## Eligibility Requirements
+
+Please review the eligibility requirements for the MENA Theater Makers Fund before applying. Applicants must also meet all of the requirements below:
+
+* Operating budgets of under $500,000, averaged over three years.
+* A minimum of a three-year operating history. 
+* Must be based in the 50 U.S. States, the District of Columbia, and/or U.S. territories and other U.S. jurisdictions.
+
+We welcome the following organizations to apply:
+
+* 501(c)(3) nonprofit organizations
+* Fiscally sponsored organizations
+* Artist collectives and ensembles with a fiscal sponsor:
+
+  * A collective or ensemble can be defined by two or more people. For example, a playwright and director who have an agreement with a theater company to fiscally sponsor their project. A minimum of a three-year working history for the ensemble is required.
+
+The following are not eligible to apply:
+
+* Individuals
+* Federal agencies
+* Municipal, county, or state government entities
+* K-12 schools and preschools
+* Colleges and universities
+
+
+
+## Selection Process
+
+Applications will be reviewed by MENATMA staff for eligibility and completion. The final selection of finalists will be made by an external panel of peers. Any panelist with financial interest or direct involvement with an applicant will recuse themselves from the discussion of that application.
+
+
+
+## Selection Criteria
+
+We strive for a balance of geography, populations served, and various theater practices. These factors will also be taken into account when the applications are evaluated.
+
+Applications will be reviewed and scored based on the following factors, holistically evaluated:
+
+* The organization’s mission and history of arts and cultural work has positively impacted the MENA community in their region..
+* The organization’s leadership and team are deeply connected to the MENA community.
+* The organization’s programming has consistently included MENA artists and stories over the past three years.
+* The organization has successfully engaged MENA audiences with culturally relevant and accessible content, responding to their needs, challenges, and strengths.
+* The organization demonstrates regional and national leadership in the theater field and advocacy for MENA communities.
+* Competitive applicants will provide data, examples, and evidence, clearly demonstrating how this award will support their work and the MENA communities they serve.
+
+
+
+## How to Apply + Application Support
+
+**[Submit your application via Google Forms.](https://www.odcikin.com)** 
+
+It is not possible to save your answers, so we recommend copying over the questions to a word editing software and preparing answers there.
+
+**The deadline to submit is Friday, March 20, 2026 at 11:59 pm ET.**
+
+The application platform will send an automatic reply after your application has been submitted.
+
+Applications submitted after the deadline will not be accepted. Unfortunately, no exceptions will be made.
+
+MENA Theater Makers Alliance will hold an informational webinar on Monday, February 2, 2026 from 2-3pm EST/1-2pm CST/11am-12pm PST. Applicants are encouraged to attend. Registration will be available closer to date, and please note: a recording will be made  available on our YouTube channel after February 2, 2026.
+
+If you have any questions after the webinar or need assistance applying online, please email MENATMA staff at [grants@menatheater.org](mailto:grants@menatheater.org).
