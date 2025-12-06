@@ -27,4 +27,4 @@ values:
       resilience and community building by countless artists and organizations.
     imageUrl: img/values-image04.jpg
 ---
-We are theater makers of Middle Eastern and North African heritage working in the United States.
+The name, mission, and priorities of the MENA Theatre Makers Alliance were defined at our convening in  Fall 2019, and MENATMA was formally launched. In 2023, MENATMA was registered as a not-for-profit 501-c3 organization.
