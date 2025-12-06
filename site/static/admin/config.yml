@@ -74,11 +74,11 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Image, name: image, widget: image}
           - {label: Body, name: body, widget: markdown}
           - label: Values
-              name: values
-              widget: list
-              fields:
-                - {label: Text, name: text, widget: markdown}
-                - {label: Image, name: imageUrl, widget: image}
+            name: values
+            widget: list
+            fields:
+              - {label: Text, name: text, widget: markdown}
+              - {label: Image, name: imageUrl, widget: image}
       - file: "site/content/grants/_index.md"
         label: "Grants Page"
         name: "grants"
