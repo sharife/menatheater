@@ -6,11 +6,12 @@ orgs:
   heading: MENA Theater Organizations
   items:
     - link: https://centralstage.org/
-      text: Central Stage is a non-affiliated organization with a mission to promote
-        arts and culture, with an emphasis on Persian arts and culture, by
-        providing an affordable  space where the artistic community can explore
-        creative expression, promote cultural dialogue, and share knowledge
-        through performing and visual arts.
+      text: "**[Central Stage](https://centralstage.org/)** is a non-affiliated
+        organization with a mission to promote arts and culture, with an
+        emphasis on Persian arts and culture, by providing an affordable  space
+        where the artistic community can explore creative expression, promote
+        cultural dialogue, and share knowledge through performing and visual
+        arts. (Richmond, CA)"
       image: img/logo-central-stage.jpg
     - link: https://www.dunyaproductions.org/
       text: "[Dunya Productions](https://www.dunyaproductions.org/) creates art and
@@ -57,19 +58,19 @@ orgs:
         reservation, or limitations. Peydah is committed to voicing stories from
         all aspects of Iranian life. (New York City, NY)"
     - link: https://www.sedatheatre.com/
-      text: "**Seda Iranian Theatre Ensemble** was founded in 2019 as the first
-        Iranian theatre company in Seattle, USA. We named our ensemble Seda –
-        which means ‘voice’ in Persian – because we believe that every human has
-        a voice, and every voice deserves to be heard. We chose the name Seda as
-        we aim to create an opportunity for refugees and immigrants whose voice
-        cannot be heard.  In a world where the powerful majority controls the
-        mainstream media and is the dominating voice, theatre is an incredible
-        place to be seen and heard. Theatre is created out of nothing: all it
-        takes is a viewer and a performer. The stage could be a house, a
-        performance hall, an alley, or an abandoned warehouse. At Seda Theatre,
-        we want to amplify and give voice to the issues and stories of
-        immigrants by creating work on stage and through imagination and art. We
-        will teach and learn."
+      text: "**[Seda Iranian Theatre Ensemble](https://www.sedatheatre.com/)** was
+        founded in 2019 as the first Iranian theatre company in Seattle, USA. We
+        named our ensemble Seda – which means ‘voice’ in Persian – because we
+        believe that every human has a voice, and every voice deserves to be
+        heard. We chose the name Seda as we aim to create an opportunity for
+        refugees and immigrants whose voice cannot be heard.  In a world where
+        the powerful majority controls the mainstream media and is the
+        dominating voice, theatre is an incredible place to be seen and heard.
+        Theatre is created out of nothing: all it takes is a viewer and a
+        performer. The stage could be a house, a performance hall, an alley, or
+        an abandoned warehouse. At Seda Theatre, we want to amplify and give
+        voice to the issues and stories of immigrants by creating work on stage
+        and through imagination and art. We will teach and learn. (Seattle, WA)"
       image: img/logo-seda.jpg
     - image: img/srcc_logo-original.webp
       link: https://silkroadculturalcenter.org/
