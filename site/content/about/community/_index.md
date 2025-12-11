@@ -1,6 +1,5 @@
 ---
 title: "Community"
-image: /img/about-jumbotron.jpg
 text: Our community is made up of theater artists, educators, and administrators who work independently and within organizations.  
 board: 
   heading: Board of Directors

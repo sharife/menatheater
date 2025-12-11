@@ -1,6 +1,5 @@
 ---
 title: "Mission"
-image: /img/about-jumbotron.jpg
 ---
 
 ## Our Mission  

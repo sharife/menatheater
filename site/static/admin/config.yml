@@ -71,7 +71,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Intro, name: intro, widget: text}
-          - {label: Image, name: image, widget: image}
+          - {label: Image, name: image, widget: image, required: false}
           - {label: Body, name: body, widget: markdown}
           - label: Values
             name: values
@@ -79,6 +79,73 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {label: Text, name: text, widget: markdown}
               - {label: Image, name: imageUrl, widget: image}
+      - file: "site/content/about/mission/_index.md"
+        label: "Mission Page"
+        name: "mission"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
+      - file: "site/content/about/history/_index.md"
+        label: "History Page"
+        name: "history"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
+          - label: Photos
+            name: photos
+            widget: object
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - label: Images
+                name: items
+                widget: list
+                fields:
+                  - {label: Image, name: image, widget: image}
+      - file: "site/content/about/community/_index.md"
+        label: "Community Page"
+        name: "community"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Intro, name: intro, widget: text}
+          - {label: Body, name: body, widget: markdown}
+          - label: Board
+            name: board
+            widget: object
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - label: Members
+                name: items
+                widget: list
+                fields:
+                  - {label: Name, name: name, widget: string}
+                  - {label: Organization, name: org, widget: string}
+                  - {label: Location, name: loc, widget: string}
+                  - {label: Image, name: image, widget: image}
+                  - {label: Bio, name: bio, widget: markdown}
+          - label: Organizations
+            name: orgs
+            widget: object
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - label: Org
+                name: items
+                widget: list
+                fields:
+                  - {label: Link, name: link, widget: string}
+                  - {label: Text, name: text, widget: markdown}
+                  - {label: Image, name: image, widget: image}
+          - label: Partners
+            name: partners
+            widget: object
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - label: Partnerships
+                name: items
+                widget: list
+                fields:
+                  - {label: Link, name: link, widget: string}
+                  - {label: Text, name: text, widget: markdown}
+                  - {label: Image, name: image, widget: image}
       - file: "site/content/grants/_index.md"
         label: "Grants Page"
         name: "grants"
