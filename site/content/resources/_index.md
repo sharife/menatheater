@@ -63,7 +63,7 @@ orgs:
         Seda Theatre, we want to amplify and give voice to the issues and
         stories of immigrants by creating work on stage and through imagination
         and art. (Seattle, WA)"
-      image: img/logo-seda.jpg
+      image: img/logo-seda-persian.jpg
     - image: img/srcc_logo-original.webp
       link: https://silkroadculturalcenter.org/
       text: "[Silk Road Cultural Center](https://www.silkroadrising.org/) is a
