@@ -43,6 +43,12 @@
     {{ end }}
   {{ end }}
 
+  {{ if .Params.staff }}
+    <div class="mw7">
+      {{ partial "grid" (dict "group" .Params.staff "pageUrl" .Permalink) }}
+    </div>
+  {{ end }}
+
   {{ if .Params.board }}
     <div class="mw7">
       {{ partial "grid" (dict "group" .Params.board "pageUrl" .Permalink) }}

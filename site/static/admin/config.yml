@@ -108,6 +108,19 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Intro, name: intro, widget: text}
           - {label: Body, name: body, widget: markdown}
+          - label: Staff
+            name: staff
+            widget: object
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - label: Members
+                name: items
+                widget: list
+                fields:
+                  - {label: Name, name: name, widget: string}
+                  - {label: Title, name: org, widget: string}
+                  - {label: Image, name: image, widget: image}
+                  - {label: Bio, name: bio, widget: markdown}
           - label: Board
             name: board
             widget: object
