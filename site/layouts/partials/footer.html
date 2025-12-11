@@ -7,7 +7,7 @@
 		<div class="flex-ns justify-between">
 
 			<div>
-				<img src="/img/logo-white.svg" alt="logo" class="db center mb3 br0" style="width:12rem;">
+				<a href="/" class="no-underline bb"><img src="/img/logo-white.svg" alt="logo" class="db center mb3 br0" style="width:12rem;"></a>
 			</div>
 
 			<div>
@@ -20,8 +20,8 @@
 
 			<div class="flex">
 				<ul class="f6 mb3 pr4-l center">
-					<li class="mb2"><a href="/" class="no-underline bb">Home</a></li>
-					{{ range first 2 (.Site.Menus.primary) }}
+					<!-- <li class="mb2"><a href="/" class="no-underline bb">Home</a></li> -->
+					{{ range first 3 (.Site.Menus.primary) }}
 	                <li class="mb2">
 	                        <a href="{{ .URL }}" class="no-underline bb">
 	                            {{ .Name }}

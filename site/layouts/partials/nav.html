@@ -19,7 +19,6 @@
 
 		{{ $currentPage := . }}
             {{ range .Site.Menus.primary }}
-              {{ if ne .Name "Grants"}}
                 {{ if .HasChildren }}
                     <li class="{{ if $currentPage.HasMenuCurrent "primary" . }}active{{ end }}">
                         <a href="{{ .URL }}">
@@ -42,7 +41,6 @@
                         </a>
                     </li>
                 {{ end }}
-              {{ end }}
             {{ end }}
 	</ul>
 
