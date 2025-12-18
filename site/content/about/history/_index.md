@@ -1,5 +1,5 @@
 ---
-title: "History"
+title: History
 photos:
   heading: "Photo Gallery"
   items:
