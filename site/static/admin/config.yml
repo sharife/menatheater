@@ -94,6 +94,7 @@ collections: # A list of collections the CMS should be able to edit
           - label: Photos
             name: photos
             widget: object
+            required: false
             fields:
               - {label: Heading, name: heading, widget: string}
               - label: Images
