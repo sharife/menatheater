@@ -84,12 +84,14 @@ collections: # A list of collections the CMS should be able to edit
         name: "mission"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Heading, name: intro, widget: text, required: false}
           - {label: Body, name: body, widget: markdown}
       - file: "site/content/about/history/_index.md"
         label: "History Page"
         name: "history"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Heading, name: intro, widget: text, required: false}
           - {label: Body, name: body, widget: markdown}
           - label: Photos
             name: photos
@@ -107,7 +109,8 @@ collections: # A list of collections the CMS should be able to edit
         name: "community"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Intro, name: intro, widget: text}
+          - {label: Heading, name: intro, widget: string, required: false}
+          - {label: Intro, name: text, widget: text, required: false}
           - {label: Body, name: body, widget: markdown}
           - label: Staff
             name: staff

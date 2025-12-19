@@ -2,7 +2,6 @@
 title: Community
 text: Our community is made up of theater artists, educators, and administrators
   who work independently and within organizations.
-intro: Community
 staff:
   heading: Staff
   items:
