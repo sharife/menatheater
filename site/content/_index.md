@@ -11,8 +11,8 @@ intro: >
 
   We take space, make opportunities, champion artists, and build relationships with other marginalized communities and allies to build a more vibrant American theater.
 slideshow:
-  - image: img/aatw-makeenosmanphotography-llc-49-.jpg
-  - image: img/group.jpg
-  - image: img/menatma-2023.avif
   - image: img/arab-artists.jpg
+  - image: img/menatma-2023.avif
+  - image: img/group.jpg
+  - image: img/aatw-makeenosmanphotography-llc-49-.jpg
 ---
