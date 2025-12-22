@@ -8,25 +8,24 @@ staff:
     - name: Sarah Dahnke
       org: General Manager
       image: img/headshot-sarah-dahnke.jpg
-      bio: "**SARAH DAHNKE** is a Brooklyn-based choreographer, multimedia artist, and
-        arts educator. She creates performance experiences that often feature
-        non-performers, highlighting and celebrating the nuances of natural,
-        untrained human movement. She works with public school students to
-        facilitate the creation of their own choreography and video projects,
-        makes giant group dances to teach to the general public, and films
-        instructional videos to disseminate dance sequences widely. Her video
-        work has been curated nationally by Dance Films Association, DCTV, Tiny
-        Dance Film Festival, Hyde Park Arts Center, Ruth Page Center for the
-        Arts and Gowanus Ballroom as well as internationally across The
-        Philippines. Her choreography has occurred on stages, in streets, on the
-        Internet, in music videos, on roofs, in galleries and more. Some of
-        these places include The Kitchen, CPR-Center for Performance Research,
-        Grace Exhibition Space, The New York Transit Museum, Northside Festival
-        and Lollapalooza. Sarah has worked with organizations and artists such
-        as The Tribeca Film Institute, BRIC, The Film Society at Lincoln Center,
-        The New York City Ballet, and Marina Abramovich. She is a recipient of a
-        grant from The Puffin Foundation and the Fellowship for Utopian Practice
-        from Culture Push."
+      bio: >-
+        **Sarah Dahnke** is an Arab-American arts leader, choreographer, and
+        educator whose work bridges creative practice, institutional leadership,
+        and community-centered cultural work. In addition to serving as the
+        General Manager at MENATMA, she is also a Lecturer at New York
+        University, where she teaches courses in narrative design, drawing on
+        interdisciplinary approaches that span performance, media, and
+        storytelling. Previously, she served as Residency Director at chashama,
+        overseeing large-scale artist residency programs and partnerships across
+        New York City. She has also worked as a digital archivist for Marina
+        Abramović, contributing to the preservation and organization of major
+        performance art archives.
+
+
+        As an artist, Sarah’s creative practice centers on devised performance and dance film, with work presented by organizations including BRIC, the Dance Films Association, Movies By Movers, and the Tiny Dance Film Festival. Her work has been supported by the MAP Fund, the National Endowment for the Arts (Our Town), and fellowships from Gibney, Target Margin Institute, New Victory LabWorks, and Culture Push. She was recently an artist-in-residence at the Arab American National Museum.
+
+
+        Sarah is the founder and artistic director of Dances for Solidarity, a long-term project that co-creates choreography with people impacted by the criminal legal system as a form of public advocacy and collective storytelling. She is also a company member of New York-based Colt Coeur and was the second-ever recipient of the Crane Directing Fellowship at Opera Columbus.
 board:
   heading: Board of Directors
   items:
