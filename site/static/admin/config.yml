@@ -79,9 +79,9 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {label: Text, name: text, widget: markdown}
               - {label: Image, name: imageUrl, widget: image}
-      - file: "site/content/about/mission/_index.md"
-        label: "Mission Page"
-        name: "mission"
+      - file: "site/content/about/vision/_index.md"
+        label: "Vision Page"
+        name: "vision"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Heading, name: intro, widget: text, required: false}

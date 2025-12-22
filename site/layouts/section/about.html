@@ -46,6 +46,10 @@
   <p class="f4">{{ .Params.text }}</p>
 {{ end }}
 
+{{ if .Params.image }}
+  <img src="{{ .Params.image }}" alt="{{ $.Title }}" class="br0 mw6 pb3" />
+{{ end }}
+
   {{ if .Params.values }}
     {{ range $index, $element := .Params.values }}
       {{ if modBool $index 2 }}
