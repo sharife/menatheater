@@ -41,9 +41,9 @@ weight = 5
 
 [[menu.primary]]
 parent = "about"
-identifier = "mission"
-name = "Mission"
-url = "/about/mission"
+identifier = "vision"
+name = "Vision"
+url = "/about/vision"
 weight = 10
 
 [[menu.primary]]

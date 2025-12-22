@@ -10,6 +10,19 @@
 
     {{ $currentPage := . }}
     {{ range .Site.Menus.primary }}
+
+      {{ if strings.Contains .URL "about" }}
+        {{ if strings.Contains $currentPage "/about/_index" }}
+          <div class="btn bg-primary white">
+             Mission
+          </div>
+          {{ else }}
+          <div class="btn raise">
+              <a href="{{ .URL }}">Mission</a>
+          </div>
+        {{ end }}
+      {{ end }}
+
         {{ if .HasChildren }}
             {{ range .Children }}
               {{ if strings.Contains .URL "about" }}

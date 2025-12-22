@@ -4,10 +4,6 @@ intro: We are theater makers of Middle Eastern and North African heritage workin
 image: img/aatw-makeenosmanphotography-llc-49-.jpg
 ---
 
-We define the Middle East and North Africa broadly and inclusively in order to embrace the multiplicity of ethnic and religious identities that span Southwest Asia, North Africa, Central Asia, the Caucasus, parts of Mediterranean Europe, and our Diaspora communities.  
+## Our Mission
 
-We define Theater broadly and inclusively, welcoming artists of all disciplines and practices from traditional to contemporary, as well as all theater professionals that support the development and production of theater.
-
-We include and welcome people of all races, ages, abilities, sexual orientations, genders, gender identities, socioeconomic statuses, citizenship statuses, and religions. We are committed to anti-racist decolonizing practices.
-
-We acknowledge that our work is made possible by decades of artistic resilience and community building by countless artists and organizations.
+MENA Theater Makers Alliance amplifies the voices of Middle Eastern and North African theater makers and expands how stories from and about our communities are told on U.S. stages. We will take space, make opportunities, champion artists, and build relationships with other marginalized communities and allies to build a more vibrant American theater.
