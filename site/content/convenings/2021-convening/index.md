@@ -1,8 +1,9 @@
 ---
 title: 2021 Convening
 date: 2021-11-03T15:04:10.000Z
-description: Virtually connecting MENA and SWANA theatre makers coast to coast, November 5-7, 2021
-image: /img/fpo.png
+description: Virtually connecting MENA and SWANA theatre makers coast to coast,
+  November 5-7, 2021
+image: 2021-convening-no-zoom.jpg
 ---
 
 MENATMA hosted a virtual convening to connect with MENA/SWANA theatre makers from coast to coast. The three day-gathering took place on Zoom on November 5-7, 2021 and featured artist and academic panels, an open mic event, and networking opportunities. 
