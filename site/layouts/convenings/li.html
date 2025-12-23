@@ -4,7 +4,8 @@
       {{ if .Params.image }}
       <div class="mb3">
         <a href="{{.Permalink}}">
-          <img src="{{.Params.image}}" alt="" class="db mb3 center w-100 br0">
+          <!-- <img src="{{.Params.image}}" alt="" class="db mb3 center w-100 br0"> -->
+          {{ with .Resources.Get .Params.image }}<img src="{{ .RelPermalink }}" alt="{{ .Params.title }}" class="db mb3 center w-100 br0" />{{ end }}
         </a>
       </div>
       {{ end }}
