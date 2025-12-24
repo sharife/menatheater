@@ -11,6 +11,3 @@ function toggleMobileMenu() {
 
 mobileMenu.addEventListener("click", toggleMobileMenu);
 
-// Say hello
-// eslint-disable-next-line no-console
-console.log("🦊 Hello! Edit me in src/index.js");

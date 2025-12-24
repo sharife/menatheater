@@ -1,7 +1,9 @@
 <div class="bg-primary w-100" style="background-image: radial-gradient(var(--primary), #205c77);">
-  <div class="image-container bg-center center cover mw7">
-    {{ range $index, $e := .slideshow}}
-      <img src="{{.Permalink}}{{.image}}" class="br0 center cover" />
-    {{ end }}
+  <div class="fade-in">
+    <div class="image-container bg-center center cover mw7">
+      {{ range $index, $e := .slideshow}}
+        <img src="{{.Permalink}}{{.image}}" class="br0 center cover" />
+      {{ end }}
     </div>
+  </div>
 </div>
