@@ -85,7 +85,3 @@ Applications will be reviewed and scored based on the following factors, holisti
 ## Application
 
 Application for the MENA Theater Makers Fund will be available on Monday, January 12, 2026 at 12noon EST.
-
-## Frequently Asked Questions
-
-Please read the FAQ here.
