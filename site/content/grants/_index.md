@@ -2,7 +2,7 @@
 title: The MENA Theater Makers Fund
 intro: The MENA Theater Makers Fund
 cta: Apply Now
-link: "https://docs.google.com/forms/d/e/1FAIpQLSekTAWToqQLk5X0a7DpKWFiCtWXDZYmiGbGlLt2dmSutaTPlw/formResponse"
+link: https://docs.google.com/forms/d/e/1FAIpQLSekTAWToqQLk5X0a7DpKWFiCtWXDZYmiGbGlLt2dmSutaTPlw/formResponse
 ---
 ## Introduction
 
@@ -86,4 +86,6 @@ Applications will be reviewed and scored based on the following factors, holisti
 
 ## Application
 
-Application for the MENA Theater Makers Fund will be available on Monday, January 12, 2026 at 12noon EST.
+**[APPLY NOW](https://docs.google.com/forms/d/e/1FAIpQLSekTAWToqQLk5X0a7DpKWFiCtWXDZYmiGbGlLt2dmSutaTPlw/formResponse)**
+
+[Download the FAQs here.](site/static/img/menatheatermakersfundfaq.pdf)
