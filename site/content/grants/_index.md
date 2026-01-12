@@ -2,7 +2,7 @@
 title: The MENA Theater Makers Fund
 intro: The MENA Theater Makers Fund
 cta: Apply Now
-link: https://docs.google.com/forms/d/e/1FAIpQLSekTAWToqQLk5X0a7DpKWFiCtWXDZYmiGbGlLt2dmSutaTPlw/formResponse
+link: https://forms.gle/YHh2HgxcLC1z9vXD6
 ---
 ## Introduction
 
@@ -90,12 +90,12 @@ Applications will be reviewed and scored based on the following factors, holisti
 
 ## How to Apply and Application Support
 
-All applications are submitted online via [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSekTAWToqQLk5X0a7DpKWFiCtWXDZYmiGbGlLt2dmSutaTPlw/viewform). The deadline to submit is **Friday, March 20, 2026 at 11:59 pm ET.**
+All applications are submitted online via [Google Forms](https://forms.gle/YHh2HgxcLC1z9vXD6). The deadline to submit is **Friday, March 20, 2026 at 11:59 pm ET.**
 
 * **Please note:** It is not possible to save your answers within Google Forms, so we're providing a **[PDF with all the questions and instructions here](/img/mena-theater-fund-application-questions.pdf)**. We recommend preparing your answers in a word editing software and then submitting using the form.
 
 The application platform will send an automatic reply after your application has been submitted. Applications submitted after the deadline will not be accepted. Unfortunately, no exceptions will be made.
 
-**MENA Theater Makers Alliance will hold an informational webinar the week of January 26.** Applicants are encouraged to attend. A recording will also be made available following the live event.
+**MENA Theater Makers Alliance will hold an informational webinar the week of February 2.** Applicants are encouraged to attend. A recording will also be made available following the live event.
 
 If you have any questions after the webinar or need assistance applying online, please email [grants@menatheater.org](mailto:grants@menatheater.org).
