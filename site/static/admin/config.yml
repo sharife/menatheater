@@ -169,6 +169,8 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Intro, name: intro, widget: text}
+          - {label: Button, name: cta, widget: string, required: false}
+          - {label: Button Link, name: link, widget: string, required: false}
           - {label: Body, name: body, widget: markdown}
       - file: "site/content/resources/_index.md"
         label: "Resources Page"

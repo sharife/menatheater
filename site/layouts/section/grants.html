@@ -1,6 +1,8 @@
 {{ define "main" }}
 
-<!-- {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }} -->
+<!-- {{ if .Params.image }}
+  {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+{{ end }} -->
 
 {{ if .Params.intro }}
   {{ partial "short-text" (dict "heading" .Params.intro) }}
@@ -8,6 +10,10 @@
 
 
 <div class="mw7 center ph3 pv4">
+{{ if .Params.cta }}
+  <div class="btn raise mt1 mb4 bg-primary white br1 ttu"><a href="{{.Params.link}}" target="_blank">{{.Params.cta}}</a></div>
+{{ end }}
+
 {{ if .Params.text }}
   <p class="f4">{{ .Params.text }}</p>
 {{ end }}
