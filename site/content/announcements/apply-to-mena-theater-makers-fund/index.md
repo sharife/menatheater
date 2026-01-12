@@ -8,7 +8,7 @@ description: "Middle Eastern North African Theater Makers Alliance (MENATMA) is
 photos:
   heading: APPLY NOW
   items:
-    - image: https://menatheater.org/img/menatma-2023.avif
+    - image: menatma-2023.avif
 ---
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
