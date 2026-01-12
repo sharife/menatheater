@@ -5,7 +5,7 @@ description: "Middle Eastern North African Theater Makers Alliance (MENATMA) is
   proud to launch the MENA Theater Makers Fund, a new national grant initiative.
   Grant applications are now open for the $35,000-$45,000 unrestricted funding
   opportunity. Deadline is Friday, March 20, 2026 at 11:59pm EST. "
-image: fund-01.jpg
+image: /img/fund-01.jpg
 photos:
   heading: APPLY NOW
   items:
