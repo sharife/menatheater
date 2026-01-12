@@ -92,7 +92,7 @@ Applications will be reviewed and scored based on the following factors, holisti
 
 All applications are submitted online via [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSekTAWToqQLk5X0a7DpKWFiCtWXDZYmiGbGlLt2dmSutaTPlw/viewform). The deadline to submit is **Friday, March 20, 2026 at 11:59 pm ET.**
 
-**Please note:** It is not possible to save your answers within Google Forms, so we're providing a PDF with all the questions and instructions here. We recommend preparing your answers in a word editing software and then submitting using the form.
+* **Please note:** It is not possible to save your answers within Google Forms, so we're providing a PDF with all the questions and instructions here. We recommend preparing your answers in a word editing software and then submitting using the form.
 
 The application platform will send an automatic reply after your application has been submitted. Applications submitted after the deadline will not be accepted. Unfortunately, no exceptions will be made.
 
