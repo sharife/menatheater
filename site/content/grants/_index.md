@@ -88,4 +88,4 @@ Applications will be reviewed and scored based on the following factors, holisti
 
 **[APPLY NOW](https://docs.google.com/forms/d/e/1FAIpQLSekTAWToqQLk5X0a7DpKWFiCtWXDZYmiGbGlLt2dmSutaTPlw/formResponse)**
 
-[Download the FAQs here.](site/static/img/menatheatermakersfundfaq.pdf)
+[Download the FAQs here.](/img/menatheatermakersfundfaq.pdf)
