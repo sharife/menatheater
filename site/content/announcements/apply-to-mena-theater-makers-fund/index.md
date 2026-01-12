@@ -11,8 +11,6 @@ photos:
   items:
     - image: menatma-2023.avif
 ---
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 The MENA Theater Makers Fund aims to serve as a catalyst for sustainability and innovation in the theater field, providing MENA cultural producers in the United States with critical funding to invest in their creative capacity to make lasting contributions to their communities and society.
 
 This program offers general operating support and cohort-based engagement to under-resourced theater organizations that support and uphold MENA communities. Eligible theater organizations must have annual operating budgets of under $500,000. Through an open application process, MENATMA will award $800,000 in total funding, awarding $30,000 to $45,000 each in unrestricted funding to theater organizations across the U.S.
