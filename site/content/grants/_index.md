@@ -86,7 +86,7 @@ Applications will be reviewed and scored based on the following factors, holisti
 
 ## Frequently Asked Questions
 
-**[Please check out this PDF for answers to frequently asked questions.](/img/menatheaterfund-faq.pdf)** 
+**[Please check out this PDF for answers to frequently asked questions.](img/menatheaterfund-faq.pdf)** 
 
 ## How to Apply and Application Support
 
