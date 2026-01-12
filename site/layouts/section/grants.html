@@ -11,7 +11,7 @@
 
 <div class="mw7 center ph3 pv4">
 {{ if .Params.cta }}
-  <div class="btn raise mt1 mb4 bg-primary white br1 ttu"><a href="{{.Params.link}}" target="_blank">{{.Params.cta}}</a></div>
+  <div class="btn raise mt1 mb4 bg-secondary white br1 ttu"><a href="{{.Params.link}}" target="_blank">{{.Params.cta}}</a></div>
 {{ end }}
 
 {{ if .Params.text }}
@@ -52,7 +52,9 @@
     </div>
   {{ end }}
 
-  
+{{ if .Params.cta }}
+  <div class="btn raise mt1 mb4 bg-secondary white br1 ttu"><a href="{{.Params.link}}" target="_blank">{{.Params.cta}}</a></div>
+{{ end }}
 
 </div>
 
