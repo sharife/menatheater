@@ -19,16 +19,16 @@ Awardees will have access to additional funds to distribute to artists in their 
 * **Celebrate the longevity** of organizations that have helped build the field of MENA Theater.
 * **Sustain the creation and presentation of works** by MENA artists and arts organizations.
 * **Build the capacity** of MENA theater organizations and artists.
-* **Support the creative expression** of artists that exhibit a high level of artistic excellence and innovation.
+* **Support the creative expression** of artists that exhibit a high level of artistic contribution, innovation and impact in the field.
 * **Empower MENA artists and arts organizations** in their efforts to promote social justice and social change through the arts.
-* **Strengthen communities** by investing in cultural assets and human and MENA social capital in the U.S.
+* **Strengthen communities** by investing in MENA cultural assets and social capital in the U.S.
 
 ## Cohort Model
 
 In addition to funding, grantees will also be invited to participate in a cohort engagement model, expanding MENATMA’s national community of peer organizations and artists. This cohort will foster collaboration, knowledge exchange, and mutual support among those committed to sustaining and creating theater by MENA artists and serving our diaspora MENA communities.
 
 * MENATMA will host virtual networking sessions through the grant period to provide space for organizations to exchange ideas, share resources, and build connections.
-* All grantees will be invited and given financial support to attend MENATMA’s next biannual convening which is scheduled in San Francisco in Fall 2026.
+* All grantees will be invited and given financial support to attend MENATMA’s next biannual convening which is scheduled in San Francisco in October 23-25, 2026.
 * In addition, MENATMA staff and/or board members will offer one-on-one check-ins with each grantee to provide personalized support throughout the grant program.
 
 ## Timeline
