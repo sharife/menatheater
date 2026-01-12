@@ -84,8 +84,18 @@ Applications will be reviewed and scored based on the following factors, holisti
 * The organization demonstrates regional and national leadership in the theater field and advocacy for MENA communities.
 * Competitive applicants will provide data, examples, and evidence, clearly demonstrating how this award will support their work and the MENA communities they serve.
 
-## Application
+## Frequently Asked Questions
 
-**[APPLY NOW](https://docs.google.com/forms/d/e/1FAIpQLSekTAWToqQLk5X0a7DpKWFiCtWXDZYmiGbGlLt2dmSutaTPlw/formResponse)**
+**[Please check out this PDF for answers to frequently asked questions.](/img/menatheatermakersfundfaq.pdf)** 
 
-[Download the FAQs here.](/img/menatheatermakersfundfaq.pdf)
+## How to Apply and Application Support
+
+All applications are submitted online via [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSekTAWToqQLk5X0a7DpKWFiCtWXDZYmiGbGlLt2dmSutaTPlw/viewform). The deadline to submit is **Friday, March 20, 2026 at 11:59 pm ET.**
+
+**Please note:** It is not possible to save your answers, so we recommend copying and pasting  the questions into a word editing software and preparing your answers there.
+
+The application platform will send an automatic reply after your application has been submitted. Applications submitted after the deadline will not be accepted. Unfortunately, no exceptions will be made.
+
+**MENA Theater Makers Alliance will hold an informational webinar the week of January 26.** Applicants are encouraged to attend. A recording will also be made available following the live event.
+
+If you have any questions after the webinar or need assistance applying online, please email [grants@menatheater.org](mailto:grants@menatheater.org).
