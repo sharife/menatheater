@@ -140,22 +140,23 @@ board:
         Lincoln Center Director’s Lab and an associate member of SDC."
     - name: Debórah Eliezer
       org: Aviva Arts
-      loc: San Francisco, CA
-      image: /img/profile-deborah.webp
-      bio: "**DEBÓRAH ELIEZER** (she/her) is a mixed-identity Arab Jewish artist,
-        activist, coach, and California fire survivor. Passionate about the
-        power of human transformation, her work focuses on disrupting
-        assumptions about art, human values, environment and society. She is the
-        Artistic Director of Aviva Arts, an Associate Artist with Golden Thread,
-        a Mitsui Collective Somatic Jewish Leader Fellow, (Kollel3,) artEquity
-        arts facilitator alumna, and proudly serves on the inaugural MENATMA
-        board. Eliezer has devised numerous world premieres and toured
-        internationally, including writing and performing (dis)Place\\[d] about
-        Iraqi Jews. As the former foolsFURY Co-Artistic Director, she produced
-        the FURY Factory Festival of Ensemble Theater in SF for 13 years and
-        BUILD digital convenings.  Eliezer holds a B.A. Cum Laude in Drama Cum
-        Laude from SFSU, and is a certified Sound, Voice Music Healing
-        practitioner  from CIIS, and a certified Kaula Tantra Yoga instructor.
+      loc: San Francisco, CA/Central Portugal
+      image: img/eliezer-deborah-headshot.jpg
+      bio: "**DEBÓRAH ELIEZER** (she/her) is an Arab Jewish artist, activist, coach,
+        and California wildfire survivor. Passionate about the power of human
+        transformation, her work focuses on using embodied skills to disrupt
+        assumptions about art, belonging and society.  She is the Artistic
+        Director of Aviva Arts, an Associate Artist with Golden Thread, a Mitsui
+        Collective Somatic Leadership Fellow, artEquity arts facilitator alumna,
+        and has proudly served on the inaugural MENATMA board since 2019.
+        Eliezer has devised numerous world premieres and toured internationally,
+        including writing and performing (dis)Place\\[d] about Iraqi Jews. As
+        the former foolsFURY Co-Artistic Director, she produced the FURY Factory
+        Festival of Ensemble Theater in SF for 13 years and BUILD digital
+        convenings. Eliezer holds a B.A. Cum Laude in Drama from SFSU,  is a
+        certified Sound Healing practitioner from CIIS, and a certified Yoga
+        instructor. She lives between San Francisco and Central Portugal, where
+        she runs Valada Viva, an international artist retreat center.
         [avivaarts.org](https://www.avivaarts.org)"
     - name: Kathryn Haddad
       org: New Arab American Theater Works
