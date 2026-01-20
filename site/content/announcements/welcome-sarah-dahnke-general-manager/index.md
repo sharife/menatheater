@@ -3,9 +3,7 @@ title: Meet Sarah Dahnke
 date: 2026-01-19T22:20:33.398Z
 description: Join us welcoming Arab-American arts leader, choreographer and
   educator Sarah Dahnke as MENA Theater Maker Alliance’s new General Manager!
-image: sarah_2_bw-1-.jpg
-photos:
-  heading: " "
+image: /img/sarah_2_bw-1.jpg
 ---
 After a national search, Sarah was unanimously selected by the hiring committee, and began her tenure on January 5, 2026. As our first staff member, she will be taking on the day-to-day operations of the organization in collaboration with our Board of Directors. She will be managing important programs like the MENA Theater Makers Fund, our biannual convenings, and ongoing marketing, communications, and community engagement. 
 
