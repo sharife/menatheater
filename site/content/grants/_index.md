@@ -35,7 +35,7 @@ In addition to funding, grantees will also be invited to participate in a cohort
 
 * Application announced January 5, 2026.
 * Applications open January 12, 2026
-* Online informational session on Monday, February 2, 2026.\
+* Online informational session during the week of February 16, 2026.\
   *Note: a recording will be available for those who cannot attend.*
 * Applications close on March 20, 2026
 * All applicants will be notified by the end of June
@@ -96,6 +96,6 @@ All applications are submitted online via [Google Forms](https://forms.gle/YHh2H
 
 The application platform will send an automatic reply after your application has been submitted. Applications submitted after the deadline will not be accepted. Unfortunately, no exceptions will be made.
 
-**MENA Theater Makers Alliance will hold an informational webinar the week of February 2.** Applicants are encouraged to attend. A recording will also be made available following the live event.
+**MENA Theater Makers Alliance will hold an informational webinar the week of February 16.** Applicants are encouraged to attend. A recording will also be made available following the live event.
 
 If you have any questions after the webinar or need assistance applying online, please email [grants@menatheater.org](mailto:grants@menatheater.org).
