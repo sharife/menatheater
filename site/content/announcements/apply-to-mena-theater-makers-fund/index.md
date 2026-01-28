@@ -19,6 +19,12 @@ Awardees will have access to additional funds to distribute to artists in their 
 
 #### **[APPLY NOW!](https://www.menatheater.org/grants)**
 
+Please attend our informational session on February 20:
+
+```
+<iframe src="https://us05web.zoom.us/meeting/register/4TzYiQXDRJGqKeFDLxXEgQ#/registration"></iframe>
+```
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 The MENA Theater Makers Fund is supported by **Alternate ROOTS**, **National Association of Latino Arts and Cultures (NALAC)**, **First Peoples Fund**, and **The Wallace Foundation’s Advancing Wellbeing in the Arts initiative** and in partnership with the **National Arts Regranting Partners**.
