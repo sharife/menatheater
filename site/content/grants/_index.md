@@ -59,6 +59,7 @@ We welcome the following organizations to apply:
 * Artist collectives and ensembles with a fiscal sponsor:
 
   * A collective or ensemble can be defined by two or more people. For example, a playwright and director who have an agreement with a theater company to fiscally sponsor their project. A minimum of a three-year working history for the ensemble is required.
+  * If you are in need of a fiscal sponsor to apply to this grant, please check out this [list of organizations](/img/fiscal-sponsors-from-menatma.pdf) that provide this service.
 
 The following are not eligible to apply:
 
