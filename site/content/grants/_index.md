@@ -57,7 +57,8 @@ We welcome the following organizations to apply:
 * 501(c)(3) nonprofit organizations
 * Fiscally sponsored organizations
 * Artist collectives and ensembles with a fiscal sponsor:
-* A collective or ensemble can be defined by two or more people. For example, a playwright and director who have an agreement with a theater company to fiscally sponsor their project. A minimum of a three-year working history for the ensemble is required.
+
+  * A collective or ensemble can be defined by two or more people. For example, a playwright and director who have an agreement with a theater company to fiscally sponsor their project. A minimum of a three-year working history for the ensemble is required.
 
 The following are not eligible to apply:
 
