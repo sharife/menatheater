@@ -1,9 +1,8 @@
 ---
 title: MENA Theater Makers Fund Informational Session Announced!
 date: 2026-01-29T00:40:05.488Z
-description: "Middle Eastern North African Theater Makers Alliance (MENATMA)
-  will be holding a digital informational session about the MENA Theater Makers
-  Fund applications on Friday, February 20, 2026 at 1pm EST / 12pm CST / 10am
+description: "We are holding a digital informational session about the MENA
+  Theater Makers Fund on Friday, February 20, 2026 at 1pm EST / 12pm CST / 10am
   PST.  "
 image: img/fund-session-website.jpg
 photos:
