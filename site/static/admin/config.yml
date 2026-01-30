@@ -10,8 +10,8 @@ collections: # A list of collections the CMS should be able to edit
     label: "Announcement" # Used in the UI, ie.: "New Post"
     folder: "site/content/announcements" # The path to the folder where the documents are stored
     path: "{{slug}}/index" # Each document is inside a folder with the slug name.
-    media_folder: "site/static/img"   # <--- Add this line
-    public_folder: "img"  # <--- Add this line to ensure it uses global public_folder
+    media_folder: ""   # <--- Add this line
+    public_folder: ""  # <--- Add this line to ensure it uses global public_folder
     create: true # Allow users to create new documents in this collection
     editor:
       preview: false
