@@ -14,7 +14,7 @@ Awardees will have access to additional funds to distribute to artists in their 
 
 This program is supported by **[Alternate ROOTS](https://alternateroots.org/)**, **[National Association of Latino Arts and Cultures (NALAC)](https://www.nalac.org/)**, **[First Peoples Fund](https://www.firstpeoplesfund.org/)**, and **[The Wallace Foundation’s Advancing Wellbeing in the Arts initiative](https://wallacefoundation.org/organizations-supporting-advancing-well-being-arts-initiative)** and in partnership with the **National Arts Regranting Partners**. 
 
-### [You can watch a digital informational session on YouTube.](https://www.youtube.com/watch?v=qC0deWLMeNA)
+#### [You can watch a digital informational session on YouTube.](https://www.youtube.com/watch?v=qC0deWLMeNA)
 
 ## Program Objectives
 
