@@ -13,7 +13,7 @@ photos:
 
 The digital informational session, including a Q&A, was on **Friday, February 20, 2026 at 1pm EST / 12pm CST / 10am PST.**  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qC0deWLMeNA?si=fYYlJ4n28_VZLsTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### [You can watch the session on YouTube.](https://www.youtube.com/watch?v=qC0deWLMeNA)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
