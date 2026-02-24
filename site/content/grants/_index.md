@@ -14,6 +14,8 @@ Awardees will have access to additional funds to distribute to artists in their 
 
 This program is supported by **[Alternate ROOTS](https://alternateroots.org/)**, **[National Association of Latino Arts and Cultures (NALAC)](https://www.nalac.org/)**, **[First Peoples Fund](https://www.firstpeoplesfund.org/)**, and **[The Wallace Foundation’s Advancing Wellbeing in the Arts initiative](https://wallacefoundation.org/organizations-supporting-advancing-well-being-arts-initiative)** and in partnership with the **National Arts Regranting Partners**. 
 
+### [You can watch a digital informational session on YouTube.](https://www.youtube.com/watch?v=qC0deWLMeNA)
+
 ## Program Objectives
 
 * **Celebrate the longevity** of organizations that have helped build the field of MENA Theater.
@@ -36,7 +38,7 @@ In addition to funding, grantees will also be invited to participate in a cohort
 * Application announced January 5, 2026.
 * Applications open January 12, 2026
 * Online informational session during the week of February 16, 2026.\
-  *Note: a recording will be available for those who cannot attend.*
+  *[You can watch the recording here.](https://www.youtube.com/watch?v=qC0deWLMeNA)*
 * Applications close on March 20, 2026
 * All applicants will be notified by the end of June
 * Public Announcement of the awards will be on July 4, 2026
@@ -98,6 +100,6 @@ All applications are submitted online via [Google Forms](https://forms.gle/YHh2H
 
 The application platform will send an automatic reply after your application has been submitted. Applications submitted after the deadline will not be accepted. Unfortunately, no exceptions will be made.
 
-**MENA Theater Makers Alliance will hold an informational webinar the week of February 16.** Applicants are encouraged to attend. A recording will also be made available following the live event.
+**MENA Theater Makers Alliance held an informational webinar on February 20.** [A recording of the session, including a Q&A, is on our YouTube Channel.](https://www.youtube.com/watch?v=qC0deWLMeNA)
 
 If you have any questions after the webinar or need assistance applying online, please email [grants@menatheater.org](mailto:grants@menatheater.org).
