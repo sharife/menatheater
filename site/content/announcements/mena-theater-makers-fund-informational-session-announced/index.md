@@ -11,11 +11,13 @@ photos:
 ---
 **[MENA Theater Makers Fund](https://www.menatheater.org/grants)** applications are now open, and the deadline in on Friday, March 20, 2026 at 11:59pm EST.  This program offers general operating support and cohort-based engagement to under-resourced theater organizations that support and uphold MENA communities. Through an open application process, MENATMA will award $800,000 in total funding, awarding $30,000 to $45,000 each in unrestricted funding to theater organizations across the U.S. Awardees will have access to additional funds to distribute to artists in their communities, selected by the awardee. 
 
-Please join us for a digital informational session, including a Q&A on **Friday, February 20, 2026 at 1pm EST / 12pm CST / 10am PST.**  
+The digital informational session, including a Q&A, was on **Friday, February 20, 2026 at 1pm EST / 12pm CST / 10am PST.**  
 
-### **[REGISTER NOW!](https://us05web.zoom.us/meeting/register/4TzYiQXDRJGqKeFDLxXEgQ#/registration)**
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qC0deWLMeNA?si=5tjBPl7VfT_TdzE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
 
-(A recording will be made available for those who cannot attend.)
+
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
