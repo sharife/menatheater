@@ -86,7 +86,7 @@ Applications will be reviewed and scored based on the following factors, holisti
 * The organization’s programming has consistently included MENA artists and stories over the past three years.
 * The organization has successfully engaged MENA audiences with culturally relevant and accessible content, responding to their needs, challenges, and strengths.
 * The organization demonstrates regional and national leadership in the theater field and advocacy for MENA communities.
-* Competitive applicants will provide data, examples, and evidence, clearly demonstrating how this award will support their work and the MENA communities they serve.
+* Competitive applicants will provide data, examples, and evidence, clearly demonstrating how this award will support their work and the MENA communities they serve. 
 
 ## Frequently Asked Questions
 
