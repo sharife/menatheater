@@ -39,7 +39,7 @@ In addition to funding, grantees will also be invited to participate in a cohort
 * Applications open January 12, 2026
 * Online informational session during the week of February 16, 2026.\
   *[You can watch the recording here.](https://www.youtube.com/watch?v=qC0deWLMeNA)*
-* Applications close on March 20, 2026
+* **Application deadline has been extended to March 27, 2026**
 * All applicants will be notified by the end of June
 * Public Announcement of the awards will be on July 4, 2026
 * Grant period is from July 2026–June 2028
@@ -94,7 +94,7 @@ Applications will be reviewed and scored based on the following factors, holisti
 
 ## How to Apply and Application Support
 
-All applications are submitted online via [Google Forms](https://forms.gle/YHh2HgxcLC1z9vXD6). The deadline to submit is **Friday, March 20, 2026 at 11:59 pm ET.**
+All applications are submitted online via [Google Forms](https://forms.gle/YHh2HgxcLC1z9vXD6). The deadline to submit has been extended to **Friday, March 27, 2026 at 11:59 pm ET.**
 
 * **Please note:** It is not possible to save your answers within Google Forms, so we're providing a **[PDF with all the questions and instructions here](/img/menatheaterfund-applicationquestions.pdf)**. We recommend preparing your answers in a word editing software and then submitting using the form.
 
