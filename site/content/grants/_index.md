@@ -4,7 +4,7 @@ intro: The MENA Theater Makers Fund
 cta: ""
 link: ""
 ---
-##### Thank you for your interest in MENA Theater Makers Fund. The application window is now closed. We'll be in touch with all applications by July, 2026 with decisions. 
+##### Thank you for your interest in MENA Theater Makers Fund. The application window is now closed. We'll be in touch with all applicants by July, 2026 with decisions.  Feel free to email **[grants@menatheater.org](mailto:grants@menatheater.org)** with any questions.
 
 ## Introduction
 
