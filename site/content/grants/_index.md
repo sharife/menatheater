@@ -1,9 +1,11 @@
 ---
 title: The MENA Theater Makers Fund
 intro: The MENA Theater Makers Fund
-cta: Apply Now
-link: https://forms.gle/YHh2HgxcLC1z9vXD6
+cta: ""
+link: ""
 ---
+##### Thank you for your interest in MENA Theater Makers Fund. The application window is now closed. We'll be in touch with all applications by July, 2026 with decisions. 
+
 ## Introduction
 
 Middle Eastern North African Theater Makers Alliance (MENATMA) is proud to launch the **MENA Theater Makers Fund**, a new national grant initiative which aims to serve as a catalyst for sustainability and innovation in the theater field by providing MENA cultural producers in the United States with critical funding to invest in their creative capacity to make lasting contributions to their communities and society. 
@@ -94,7 +96,7 @@ Applications will be reviewed and scored based on the following factors, holisti
 
 ## How to Apply and Application Support
 
-All applications are submitted online via [Google Forms](https://forms.gle/YHh2HgxcLC1z9vXD6). The deadline to submit has been extended to **Friday, March 27, 2026 at 11:59 pm ET.**
+The application deadline was **Friday, March 27, 2026 at 11:59 pm ET.**
 
 * **Please note:** It is not possible to save your answers within Google Forms, so we're providing a **[PDF with all the questions and instructions here](/img/menatheaterfund-applicationquestions.pdf)**. We recommend preparing your answers in a word editing software and then submitting using the form.
 
