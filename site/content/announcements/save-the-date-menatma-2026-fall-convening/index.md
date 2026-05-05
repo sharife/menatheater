@@ -3,7 +3,7 @@ title: "Save the Date: MENATMA 2026 Fall Convening"
 date: 2026-05-05T15:07:11.432Z
 description: Mark your calendars! Our next Convening will take place October
   23-25, 2026 in San Francisco, CA.
-image: site/content/announcements/save-the-date-menatma-2026-fall-convening/menatma-savethedate.jpg
+image: menatma-savethedate-website.jpg
 ---
 Network, strategize, and celebrate with SWANA artists, activists, and scholars from around the country. Details on tickets will be made available shortly.
 
