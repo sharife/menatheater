@@ -8,6 +8,4 @@ image: menatma-savethedate.jpg
 ---
 Our 2026 Fall Convening in October will provide opportunities to network, strategize, and celebrate with SWANA artists, activists, and scholars from around the country. Excited to reunite with old friends, and bring new folks into the fold!
 
-![](blue-line-png-1.png)
-
 This event is produced by **MENA Theater Makers Alliance**, **Art2Action, Inc**, and **Golden Thread Productions** as part of a multiyear partnership “Protecting Dissent,” and presented in conjunction with ReOrient 2026 Festival of Short Plays produced by Golden Thread.
