@@ -8,5 +8,3 @@ image: menatma-savethedate.jpg
 Network, strategize, and celebrate with SWANA artists, activists, and scholars from around the country. Details on tickets will be made available shortly.
 
 This event is produced by MENA Theater Makers Alliance, Art2Action, Inc, and Golden Thread Productions as part of a multiyear partnership “Protecting Dissent,” and presented in conjunction with ReOrient 2026 Festival of Short Plays produced by Golden Thread.
-
-Test
