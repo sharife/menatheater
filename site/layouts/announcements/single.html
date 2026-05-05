@@ -9,9 +9,12 @@
     <div class="cms mw6">
       <p class="i">{{ .Description }}</p>
       {{ if .Params.image }}
-        <img src="{{ .Params.image }}" alt="{{ $.Title }}" class="br0" />
+        {{ with .Resources.GetMatch .Params.image }}
+          <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" class="br0" />
+        {{ else }}
+          <img src="{{ $.Params.image }}" alt="{{ $.Title }}" class="br0" />
+        {{ end }}
       {{ end }}
-      <!-- {{ with .Resources.Get .Params.image }}<img src="{{ .RelPermalink }}" alt="{{ $.Title }}" />{{ end }} -->
       {{ .Content }}
     </div>
     {{ if .Params.photos }}
