@@ -1,5 +1,9 @@
 ---
 title: History
+photos:
+  items:
+    - image: img/mea-convening-2011-1-.jpg
+  heading: 2011 Middle East America Convening at the Lark
 ---
 
 ## History  
