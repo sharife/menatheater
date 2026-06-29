@@ -15,5 +15,5 @@ slideshow:
   - image: img/menatma-2023.avif
   - image: img/group.jpg
   - image: img/aatw-makeenosmanphotography-llc-49-.jpg
-  - image: img/mea-convening-2011-1-.jpg
+  - image: img/mea-convening-2011-Upscaler-2x.jpg
 ---
