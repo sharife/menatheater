@@ -9,7 +9,7 @@ description: >-
 
 
   Awardees are all US-based, serve MENA artists and audiences, and have a budget of less than $500,000. Each will receive $30,000-$45,000 general operating support over two years with additional funding available for each organization to award to MENA artists working in their local communities. 
-image: menatma-logo-black-web.png
+image: announcing.jpg
 ---
 July 4, 2026 — **Middle Eastern North African Theater Makers Alliance (MENATMA)**, the national advocacy organization amplifying the voices of MENA theater makers, announces a major landmark in its service to MENA artistic communities and the larger American theater. **The MENA Theater Makers Fund**, the first of its kind for MENA artists and organizations, awards **$30,000-$45,000** in general operating support to 18 exceptional U.S.-based theater organizations with budgets under $500,000. MENA Theater Makers Fund is made possible with the support of **The Wallace Foundation’s Advancing Wellbeing in the Arts Initiative**, and in partnership with the **National Arts Regranting Partners**. 
 
