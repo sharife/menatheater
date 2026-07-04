@@ -1,6 +1,6 @@
 ---
 title: "Announcing: MENA Theater Makers Fund Awardees"
-date: 2026-07-04T14:30:20.525Z
+date: 2026-07-04T14:49:48.429Z
 description: >-
   The historic funding initiative, first of its kind, provides unprecedented and
   significant investment in MENA theater in the U.S. The 18 exceptional theater
