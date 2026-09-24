@@ -10,6 +10,8 @@ Presented in conjunction with Golden Thread Productions’s ReOrient 2026 Festiv
 
 Following MENATMA’s groundbreaking MENA Theater Makers Fund announcement earlier this year, the Convening will feature and celebrate the 18 awardees who represent some of the most impactful MENA and SWANA voices working in American Theatre today. 
 
+All registrants will receive a ticket to [Golden Thread's ReOrient](https://goldenthread.org/programs/reorient/) for Friday evening.
+
 **[Register for the Convening today!](https://www.zeffy.com/en-US/ticketing/menatma-2026-fall-convening)**
 
 Protecting Dissent is co-produced by MENATMA, [Art2Action](https://www.art2action.org/), and [Golden Thread Productions](https://goldenthread.org/).
