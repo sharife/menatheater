@@ -9,7 +9,7 @@ description: "Join us at “Protecting Dissent: Celebrating Voices from the Midd
   miss your chance to join this spirited opportunity to share stories, learn
   about fellow cultures, and discover new ways of collaborating and honing our
   skills."
-image: menatma.jpg
+image: website.jpg
 ---
 # Protecting Dissent: Celebrating Voices from the Middle East and North Africa
 
