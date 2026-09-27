@@ -131,11 +131,13 @@ The performance will be followed by a post-show discussion with the ReOrient pla
 **DINE-AROUND DINNERS**\
 *Choose-your-own-adventure dining at local restaurants! Facilitated dining in groups led by locals.*
 
-7:30-10:00pm Performance Options: 
+7:30-10:00pm\
+**PERFORMANCE OPTIONS** \
+**ReOrient 2026 Festival of Short Plays**\
+(at Potrero Stage, need tickets, 7:30pm start) 
 
-ReOrient 2026 Festival of Short Plays – (at Potrero Stage, need tickets, 7:30p start) 
-
-Meem Collective’s Mornings in Jenin Musical Concert – (at A.C.T. downtown SF, need tickets, doors open at 7:30pm, 8pm start)
+**Meem Collective’s Mornings in Jenin Musical Concert**\
+(at A.C.T. downtown SF, need tickets, doors open at 7:30pm, 8pm start)
 
 Sunday October 25 – DAY 3
 
