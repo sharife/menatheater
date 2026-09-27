@@ -128,9 +128,8 @@ The performance will be followed by a post-show discussion with the ReOrient pla
 *Sign up for a short time slot to share an excerpt or short performance. This could be an excerpt of a script, a song, a poem or even a dance!* 
 
 5:30-7:00pm\
-Dine-Around Dinners
-
-Choose-your-own-adventure dining at local restaurants! Facilitated dining in groups led by locals.
+**DINE-AROUND DINNERS**\
+*Choose-your-own-adventure dining at local restaurants! Facilitated dining in groups led by locals.*
 
 7:30-10:00pm Performance Options: 
 
