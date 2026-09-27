@@ -116,17 +116,19 @@ The performance will be followed by a post-show discussion with the ReOrient pla
 
 2:45-4:15pm\
 **EMERGENT BEST PRACTICES IN MENA SPACES**\
-**Facilitators: Debórah Eliezer and Caitlin Nasema Cassidy** 
+**Facilitators: Debórah Eliezer and Caitlin Nasema Cassidy** \
+*As our MENA community grows, how does our organizational practice align with our personal values, which are often in conflict with the systems in which we live and work? This participatory session will question prevailing work practices, source anecdotes from the group, and co-imagine better organizing protocols designed by and for the MENA/SWANA community.*
 
-As our MENA community grows, how does our organizational practice align with our personal values, which are often in conflict with the systems in which we live and work? This participatory session will question prevailing work practices, source anecdotes from the group, and co-imagine better organizing protocols designed by and for the MENA/SWANA community.
+4:15-4:30pm\
+**BREAK**
 
-4:15-4:30pm Break
+4:30-5:30pm\
+**OPEN MIC SHARING**\
+**Facilitator: Denmo Ibrahim**\
+*Sign up for a short time slot to share an excerpt or short performance. This could be an excerpt of a script, a song, a poem or even a dance!* 
 
-4:30-5:30pm Open Mic Sharing – Facilitator: Denmo Ibrahim
-
-Sign up for a short time slot to share an excerpt or short performance. This could be an excerpt of a script, a song, a poem or even a dance! 
-
-5:30-7:00pm Dine-Around Dinners
+5:30-7:00pm\
+Dine-Around Dinners
 
 Choose-your-own-adventure dining at local restaurants! Facilitated dining in groups led by locals.
 
