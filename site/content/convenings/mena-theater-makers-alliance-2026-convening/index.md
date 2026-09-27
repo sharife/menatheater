@@ -156,9 +156,12 @@ The performance will be followed by a post-show discussion with the ReOrient pla
 **Facilitators:  Sherrine Azab and Kate Moore Heaney**\
 *We want to hear from you! Join this participatory session to contribute your ideas, requests, and vision for MENATMA’s future. Learn about the launch of MENATMA’s membership program and ways to connect.*
 
-11:15-11:30am Break with substantial snacks
+11:15-11:30am\
+**BREAK WITH SUBSTANTIAL SNACKS**
 
-11:30am-1:00pm Traditional Arts Share-Out – Introductions: Aidaa Peerzada
+11:30am-1:00pm\
+**TRADITIONAL ARTS SHARE-OUT**\
+**Introductions: Aidaa Peerzada**
 
 1:00-1:30pm Convening Closing 
 
