@@ -2,7 +2,7 @@
 title: MENA Theater Makers Alliance 2026 Convening
 date: 2026-09-27T20:12:11.132Z
 description: "Join us at “Protecting Dissent: Celebrating Voices from the Middle
-  East and North Africa,” the MENA Theater Makers Alliance 2026 Fall Convening.
+  East and North Africa,” the MENA Theater Makers Alliance 2026 Convening.
   Presented on October 23-25, 2026 in San Francisco, this national gathering
   provides an essential opportunity to network, strategize, and celebrate with
   MENA and SWANA artists, activists, and scholars from around the country. Don’t
