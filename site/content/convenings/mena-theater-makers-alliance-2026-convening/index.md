@@ -53,7 +53,8 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 **Break**
 
 12:00-1:15pm\
-**Musical Chairs Networking – Facilitator: Tracy Francis & Awardee (tbd)**\
+**Musical Chairs Networking**\
+**Facilitator: Tracy Francis**\
 *Join us for a fun, structured speed-networking session where you will get a chance to meet new friends and colleagues.*
 
 1:15-2:45pm\
@@ -71,21 +72,22 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 
 4:15-5:30pm\
 **Forging Our Paths as MENA Artists**\
-**Moderator: Aidaa Peerzada**
+**Moderator: Aidaa Peerzada (livestreamed on HowlRound)** \
+*MENA theater makers of various disciplines share how they began their careers, adapted, and evolved to make their mark in the American theater landscape. What is the collective impact made by our community, and how do we preserve our collective wisdom? How do we actively resist the erasure of our history, and break the ‘silo’ to become a consistent part of the mainstream? What can we incorporate from our theatrical and cultural pasts to help us enrich today's theater culture?* 
 
-(livestreamed on HowlRound) 
+5:30-5:45pm\
+**SRCC Presents Survey (and Invitation to Participate)**\
+**Presenters: Tasneem Mandviwala from Silk Road Cultural Center & Malek Najjar**\
+*Silk Road Cultural Center presents its cultural mapping research project of surveys and interviews to examine the experiences, needs, barriers, and contributions of Southwest Asian and North African theatre artists and arts organizations across the United States. Supported by The Wallace Foundation, the study aims to better understand the landscape of the field and the resources SWANA artists need to thrive, and to help strengthen connections, increase visibility, and inform future advocacy, investment, and support.* 
 
-MENA theater makers of various disciplines share how they began their careers, adapted, and evolved to make their mark in the American theater landscape. What is the collective impact made by our community, and how do we preserve our collective wisdom? How do we actively resist the erasure of our history, and break the ‘silo’ to become a consistent part of the mainstream? What can we incorporate from our theatrical and cultural pasts to help us enrich today's theater culture? 
+5:45-7:00pm\
+**Dine-Around Dinners** \
+*Choose-your-own-adventure dining at local restaurants! Casual, facilitated conversations over dinner in groups led by locals.*
 
-5:30-5:45pm SRCC Presents Survey (and Invitation to Participate) – Presenters: Tasneem Mandviwala from Silk Road Cultural Center & Malek Najjar
+7:30-10:00pm\
+**Performance: ReOrient 2026 Festival of Short Plays (tickets provided) & Post-Show Discussion with the ReOrient Playwrights on Zoom and in-person**
 
-Silk Road Cultural Center presents its cultural mapping research project of surveys and interviews to examine the experiences, needs, barriers, and contributions of Southwest Asian and North African theatre artists and arts organizations across the United States. Supported by The Wallace Foundation, the study aims to better understand the landscape of the field and the resources SWANA artists need to thrive, and to help strengthen connections, increase visibility, and inform future advocacy, investment, and support. 
 
-5:45-7:00pm Dine-Around Dinners 
-
-Choose-your-own-adventure dining at local restaurants! Casual, facilitated conversations over dinner in groups led by locals.
-
-7:30-10:00pm Performance: ReOrient 2026 Festival of Short Plays (tickets provided) & Post-Show Discussion with the ReOrient Playwrights on Zoom and in-person
 
 Saturday October 24 – DAY 2
 
