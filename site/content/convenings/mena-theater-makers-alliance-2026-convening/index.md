@@ -21,9 +21,11 @@ All registrants will receive a ticket to Golden Thread’s ReOrient 2026 Festiva
 
 Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden Thread Productions**.
 
-## CONVENING SCHEDULE
 
-#### FRIDAY, OCTOBER 23, 2026 – DAY 1
+
+## **CONVENING SCHEDULE**
+
+#### **FRIDAY, OCTOBER 23, 2026 – DAY 1**
 
 8:30-9:15am:\
 **COFFEE, LIGHT BREAKFAST (in lobby), and REGISTRATION (in lobby)**
@@ -85,7 +87,9 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 **ReOrient 2026 Festival of Short Plays (tickets provided)**\
 The performance will be followed by a post-show discussion with the ReOrient playwrights in person and on Zoom.
 
-#### SATURDAY, OCTOBER 24, 2026 – DAY 2
+
+
+#### **SATURDAY, OCTOBER 24, 2026 – DAY 2**
 
 8:30-9:15am\
 **COFFEE, LIGHT BREAKFAST**
@@ -138,6 +142,8 @@ The performance will be followed by a post-show discussion with the ReOrient pla
 
 **Meem Collective’s Mornings in Jenin Musical Concert**\
 (at A.C.T. downtown SF, need tickets, doors open at 7:30pm, 8pm start)
+
+
 
 #### **SUNDAY, OCTOBER 26, 2026 – DAY 3**
 
