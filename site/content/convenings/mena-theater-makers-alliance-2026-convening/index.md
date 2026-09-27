@@ -167,6 +167,6 @@ The performance will be followed by a post-show discussion with the ReOrient pla
 **CONVENING CLOSING** 
 
 1:30-2pm\
-Break (on your own) 
+**BREAK (on your own)** 
 
 2:00-4:30pm Performance: ReOrient 2026 Festival of Short Plays – (optional, need tickets)
