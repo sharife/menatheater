@@ -95,18 +95,16 @@ The performance will be followed by a post-show discussion with the ReOrient pla
 *Start each day with this optional offering to help center your mind, body, and spirit. Led through the lens of MENA/SWANA facilitators, mindfulness practices may include meditation, simple movements, or creative practice. Suitable for all abilities and experience levels, sitting or standing, no special clothing required. Today’s practice is led through the lens of Awardee Debórah Eliezer of Aviva Arts, and will explore how we take up space with our imagination, breath and movement.* 
 
 9:50-10:00am\
-**Break**
+**BREAK**
 
 10:00am-12:00pm\
-Creating in Crisis – Moderator: Amal Bisharat, Panelists: Sahba Aminikia - Awardee: Flying Carpet Festival, Zoe Rabinowitz - Awardee: Yaa Samar!, Sahar Assaf, Deniz Khateri, Samer al-Saber, \\[and pending avail:] Alaa Taha 
+**CREATING IN CRISIS**\
+**Moderator: Amal Bisharat** \
+*This hybrid session brings together artists from Palestine, Lebanon, Iran, and Sudan to explore what it means to create when crisis is not a distant event but an ongoing reality. How does art respond to moments that can feel impossible to represent? What does it mean to make work while remaining connected to people and places experiencing violence and upheaval? How do artists navigate the expectations placed on them to explain, document, mourn, resist, or speak for a place?*
 
-(hybrid session, livestreamed on HowlRound – pending permission from participants)
-
-This hybrid session brings together artists from Palestine, Lebanon, Iran, and Sudan to explore what it means to create when crisis is not a distant event but an ongoing reality. How does art respond to moments that can feel impossible to represent? What does it mean to make work while remaining connected to people and places experiencing violence and upheaval? How do artists navigate the expectations placed on them to explain, document, mourn, resist, or speak for a place?
-
-12:00-1:30pm Lunch & Craft Break (lunch provided)
-
-Enjoy a catered lunch for all attendees while dipping into crafts from around our MENA communities, a sneak peek for Sunday’s Traditional Arts session.
+12:00-1:30pm\
+**LUNCH & CRAFT BREAK (lunch provided)**\
+*Enjoy a catered lunch for all attendees while dipping into crafts from around our MENA communities, a sneak peek for Sunday’s Traditional Arts session.*
 
 1:30-2:30pm Affinity Jam Session – Facilitator: Raymond Bobgan (Producing) with Affinity Group Leaders Kathy Haddad (Regional Collaborations), Malek Najjar & Hala Baki (Education), and Marjan Moosavi & Aycan Akçamete & Nakissa Etemad (Dramaturgy/Playwriting)
 
