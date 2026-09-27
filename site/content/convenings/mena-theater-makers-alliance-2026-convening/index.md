@@ -145,15 +145,16 @@ The performance will be followed by a post-show discussion with the ReOrient pla
 **COFFEE, LIGHT BREAKFAST**
 
 9:15-9:50am\
-**WELLNESS PRACTICE – Restoring Our Tools: Hands, Feet, Eyes (optional)**
+**WELLNESS PRACTICE – Restoring Our Tools: Hands, Feet, Eyes (optional)**\
+*Start the day with this optional offering to help center your mind, body, and spirit. Led through the lens of Awardee Leyya Tawil of Dance Elixir (Oakland, CA), you are invited to "come as you are." This accessible somatic movement session will offer ways to prepare our hands, feet, and eyes for the work laid out before us. This practice includes simple movements, guided visualizations, and restorative techniques for our whole selves.* 
 
-Start the day with this optional offering to help center your mind, body, and spirit. Led through the lens of Awardee Leyya Tawil of Dance Elixir (Oakland, CA), you are invited to "come as you are." This accessible somatic movement session will offer ways to prepare our hands, feet, and eyes for the work laid out before us. This practice includes simple movements, guided visualizations, and restorative techniques for our whole selves. 
+9:50-10:00am\
+**BREAK**
 
-9:50-10:00am Break
-
-10:00-11:15am Shaping the Future of MENATMA: How Can We Serve You? – Facilitators:  Sherrine Azab and Kate Moore Heaney
-
-We want to hear from you! Join this participatory session to contribute your ideas, requests, and vision for MENATMA’s future. Learn about the launch of MENATMA’s membership program and ways to connect.
+10:00-11:15am\
+**SHAPING THE FUTURE OF MENATMA: HOW CAN WE SERVE YOU?**\
+**Facilitators:  Sherrine Azab and Kate Moore Heaney**\
+*We want to hear from you! Join this participatory session to contribute your ideas, requests, and vision for MENATMA’s future. Learn about the launch of MENATMA’s membership program and ways to connect.*
 
 11:15-11:30am Break with substantial snacks
 
