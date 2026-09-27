@@ -106,13 +106,17 @@ The performance will be followed by a post-show discussion with the ReOrient pla
 **LUNCH & CRAFT BREAK (lunch provided)**\
 *Enjoy a catered lunch for all attendees while dipping into crafts from around our MENA communities, a sneak peek for Sunday’s Traditional Arts session.*
 
-1:30-2:30pm Affinity Jam Session – Facilitator: Raymond Bobgan (Producing) with Affinity Group Leaders Kathy Haddad (Regional Collaborations), Malek Najjar & Hala Baki (Education), and Marjan Moosavi & Aycan Akçamete & Nakissa Etemad (Dramaturgy/Playwriting)
+1:30-2:30pm\
+**AFFINITY JAM SESSION**\
+**Facilitator: Raymond Bobgan (Producing) with Affinity Group Leaders Kathy Haddad (Regional Collaborations), Malek Najjar & Hala Baki (Education), and Marjan Moosavi & Aycan Akçamete & Nakissa Etemad (Dramaturgy/Playwriting)**\
+*What does MENA collaboration look like within specific affinity groups? An opportunity to tap into vibrant smaller group discussions with dramaturgs, educators, regional collaborators, and producers.*
 
-What does MENA collaboration look like within specific affinity groups? An opportunity to tap into vibrant smaller group discussions with dramaturgs, educators, regional collaborators, and producers.
+2:30-2:45pm \
+**BREAK**
 
-2:30-2:45pm Break
-
-2:45-4:15pm Emergent Best Practices in MENA Spaces – Facilitators: Debórah Eliezer and Caitlin Nasema Cassidy 
+2:45-4:15pm\
+**EMERGENT BEST PRACTICES IN MENA SPACES**\
+**Facilitators: Debórah Eliezer and Caitlin Nasema Cassidy** 
 
 As our MENA community grows, how does our organizational practice align with our personal values, which are often in conflict with the systems in which we live and work? This participatory session will question prevailing work practices, source anecdotes from the group, and co-imagine better organizing protocols designed by and for the MENA/SWANA community.
 
