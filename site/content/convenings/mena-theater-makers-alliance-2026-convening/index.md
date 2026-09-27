@@ -139,9 +139,12 @@ The performance will be followed by a post-show discussion with the ReOrient pla
 **Meem Collective’s Mornings in Jenin Musical Concert**\
 (at A.C.T. downtown SF, need tickets, doors open at 7:30pm, 8pm start)
 
-Sunday October 25 – DAY 3
 
-8:30-9:15am Coffee, Light Breakfast
+
+#### **SUNDAY, OCTOBER 26, 2026 – DAY 3**
+
+8:30-9:15am\
+**COFFEE, LIGHT BREAKFAST**
 
 9:15-9:50am  Wellness Practice – Restoring Our Tools: Hands, Feet, Eyes (optional)
 
