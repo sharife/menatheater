@@ -139,14 +139,13 @@ The performance will be followed by a post-show discussion with the ReOrient pla
 **Meem Collective’s Mornings in Jenin Musical Concert**\
 (at A.C.T. downtown SF, need tickets, doors open at 7:30pm, 8pm start)
 
-
-
 #### **SUNDAY, OCTOBER 26, 2026 – DAY 3**
 
 8:30-9:15am\
 **COFFEE, LIGHT BREAKFAST**
 
-9:15-9:50am  Wellness Practice – Restoring Our Tools: Hands, Feet, Eyes (optional)
+9:15-9:50am\
+**WELLNESS PRACTICE – Restoring Our Tools: Hands, Feet, Eyes (optional)**
 
 Start the day with this optional offering to help center your mind, body, and spirit. Led through the lens of Awardee Leyya Tawil of Dance Elixir (Oakland, CA), you are invited to "come as you are." This accessible somatic movement session will offer ways to prepare our hands, feet, and eyes for the work laid out before us. This practice includes simple movements, guided visualizations, and restorative techniques for our whole selves. 
 
