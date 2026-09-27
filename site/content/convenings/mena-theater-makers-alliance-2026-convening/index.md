@@ -26,74 +26,79 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 #### FRIDAY, OCTOBER 23, 2026 – DAY 1
 
 8:30-9:15am:\
-**Coffee, Light Breakfast (in lobby), and Registration (in lobby)**
+**COFFEE, LIGHT BREAKFAST (in lobby), and REGISTRATION (in lobby)**
 
 9:15-9:50am \
-**Wellness Practice – Meditation: 3rd Foundation of Mindfulness (optional)**  \
+**WELLNESS PRACTICE – Meditation: 3rd Foundation of Mindfulness (optional)**  \
 *Start each day with this optional offering to help center your mind, body, and spirit. Led through the lens of MENA/SWANA facilitators, mindfulness practices may include meditation, simple movements, or creative practice. Suitable for all abilities and experience levels, sitting or standing, no special clothing required. Today’s practice led by Amal Bisharat will explore mindfulness of consciousness, observing our mental states without judgement and meeting ourselves with acceptance and compassion.* 
 
 9:50-10:00am\
-**Break**
+**BREAK**
 
 10:00-10:45am\
-**Convening Welcome**\
+**CONVENING WELCOME**\
 **by Denmo Ibrahim, Nabra Nelson, Debórah Eliezer and Sarah Dahnke (livestreamed on HowlRound)**\
 *Don’t miss the official start of the convening featuring MENATMA chair Denmo Ibrahim, Golden Thread Artistic Director Nabra Nelson, and more. Get energized for the weekend and hear about MENATMA’s exciting updates and programs.*
 
 10:45-11:45am\
-**Protecting Dissent: Celebrating Voices from the Middle East and North Africa**\
+**PROTECTING DISSENT: CELEBRATING VOICES FROM THE MIDDLE EAST AND NORTH AFRICA**\
 **Moderator: Catherine Coray, Panelists: Andrea Assaf, Torange Yeghiazarian and Nabra Nelson  (livestreamed on HowlRound)** \
 *How does MENA theater react to systemic silencing of our community? A robust conversation on the themes of this year’s convening with a selection of established leaders working in MENA theater today.*
 
 11:45am-12:00pm\
-**Break**
+**BREAK**
 
 12:00-1:15pm\
-**Musical Chairs Networking**\
+**MUSICAL CHAIRS NETWORKING**\
 **Facilitator: Tracy Francis**\
 *Join us for a fun, structured speed-networking session where you will get a chance to meet new friends and colleagues.*
 
 1:15-2:45pm\
-**Lunch Break (lunch provided) and Pitch Session Sharing**\
+**LUNCH BREAK (lunch provided) and PITCH SESSION SHARING**\
 **Facilitator: Tracy Francis**  \
 *Catered lunch for all attendees. Pitch Session: Sign up for a short time slot to pitch a new or existing project, or just to talk about your artistic work or company! (Slots are first come, first served.)*
 
 2:45-4:00pm\
-**Awardee Introductions and Sharing**\
+**AWARDEE INTRODUCTIONS AND SHARING**\
 **Facilitators: Sarah Dahnke with Torange Yeghiazarian (livestreamed on HowlRound)**\
 *Introducing the inaugural awardees of The MENA Theater Makers Fund, MENATMA’s historic funding initiative, the first of its kind for MENA artists and organizations that provides unprecedented and significant investment in MENA theater in the U.S. This session will feature and celebrate a number of awardees out of 18 total recipients who represent some of the most impactful MENA and SWANA voices working in American theater today.*  
 
 4:00-4:15pm\
-**Break**
+**BREAK**
 
 4:15-5:30pm\
-**Forging Our Paths as MENA Artists**\
+**FORGING OUR PATHS AS MENA ARTISTS**\
 **Moderator: Aidaa Peerzada (livestreamed on HowlRound)** \
 *MENA theater makers of various disciplines share how they began their careers, adapted, and evolved to make their mark in the American theater landscape. What is the collective impact made by our community, and how do we preserve our collective wisdom? How do we actively resist the erasure of our history, and break the ‘silo’ to become a consistent part of the mainstream? What can we incorporate from our theatrical and cultural pasts to help us enrich today's theater culture?* 
 
 5:30-5:45pm\
-**SRCC Presents Survey (and Invitation to Participate)**\
+**SRCC PRESENTS SURVEY (and Invitation to Participate)**\
 **Presenters: Tasneem Mandviwala from Silk Road Cultural Center & Malek Najjar**\
 *Silk Road Cultural Center presents its cultural mapping research project of surveys and interviews to examine the experiences, needs, barriers, and contributions of Southwest Asian and North African theatre artists and arts organizations across the United States. Supported by The Wallace Foundation, the study aims to better understand the landscape of the field and the resources SWANA artists need to thrive, and to help strengthen connections, increase visibility, and inform future advocacy, investment, and support.* 
 
 5:45-7:00pm\
-**Dine-Around Dinners** \
+**DINE-AROUND DINNERS** \
 *Choose-your-own-adventure dining at local restaurants! Casual, facilitated conversations over dinner in groups led by locals.*
 
 7:30-10:00pm\
-**Performance: ReOrient 2026 Festival of Short Plays (tickets provided) & Post-Show Discussion with the ReOrient Playwrights on Zoom and in-person**
+**PERFORMANCE**\
+**ReOrient 2026 Festival of Short Plays (tickets provided)**\
+The performance will be followed by a post-show discussion with the ReOrient playwrights in person and on Zoom.
 
-Saturday October 24 – DAY 2
+#### SATURDAY, OCTOBER 24, 2026 – DAY 2
 
-8:30-9:15am Coffee, Light Breakfast
+8:30-9:15am\
+**COFFEE, LIGHT BREAKFAST**
 
-9:15-9:50am Wellness Practice – HaMakom: Take Space (optional)
+9:15-9:50am\
+**Wellness Practice – HaMakom: Take Space (optional)**\
+*Start each day with this optional offering to help center your mind, body, and spirit. Led through the lens of MENA/SWANA facilitators, mindfulness practices may include meditation, simple movements, or creative practice. Suitable for all abilities and experience levels, sitting or standing, no special clothing required. Today’s practice is led through the lens of Awardee Debórah Eliezer of Aviva Arts, and will explore how we take up space with our imagination, breath and movement.* 
 
-Start each day with this optional offering to help center your mind, body, and spirit. Led through the lens of MENA/SWANA facilitators, mindfulness practices may include meditation, simple movements, or creative practice. Suitable for all abilities and experience levels, sitting or standing, no special clothing required. Today’s practice is led through the lens of Awardee Debórah Eliezer of Aviva Arts, and will explore how we take up space with our imagination, breath and movement. 
+9:50-10:00am\
+**Break**
 
-9:50-10:00am Break
-
-10:00am-12:00pm Creating in Crisis – Moderator: Amal Bisharat, Panelists: Sahba Aminikia - Awardee: Flying Carpet Festival, Zoe Rabinowitz - Awardee: Yaa Samar!, Sahar Assaf, Deniz Khateri, Samer al-Saber, \\[and pending avail:] Alaa Taha 
+10:00am-12:00pm\
+Creating in Crisis – Moderator: Amal Bisharat, Panelists: Sahba Aminikia - Awardee: Flying Carpet Festival, Zoe Rabinowitz - Awardee: Yaa Samar!, Sahar Assaf, Deniz Khateri, Samer al-Saber, \\[and pending avail:] Alaa Taha 
 
 (hybrid session, livestreamed on HowlRound – pending permission from participants)
 
