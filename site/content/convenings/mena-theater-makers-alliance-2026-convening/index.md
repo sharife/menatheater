@@ -1,19 +1,15 @@
 ---
 title: MENA Theater Makers Alliance 2026 Convening
 date: 2026-09-27T20:12:11.132Z
-description: "Join us at “Protecting Dissent: Celebrating Voices from the Middle
-  East and North Africa,” the MENA Theater Makers Alliance 2026 Convening.
-  Presented on October 23-25, 2026 in San Francisco, this national gathering
-  provides an essential opportunity to network, strategize, and celebrate with
-  MENA and SWANA artists, activists, and scholars from around the country. Don’t
-  miss your chance to join this spirited opportunity to share stories, learn
-  about fellow cultures, and discover new ways of collaborating and honing our
-  skills."
+description: Presented on October 23-25, 2026 in San Francisco, this national
+  gathering provides an essential opportunity to network, strategize, and
+  celebrate with MENA and SWANA artists, activists, and scholars from around the
+  country. Don’t miss your chance to join this spirited opportunity to share
+  stories, learn about fellow cultures, and discover new ways of collaborating
+  and honing our skills.
 image: website.jpg
 ---
 # Protecting Dissent: Celebrating Voices from the Middle East and North Africa
-
-Presented on **October 23-25, 2026 in San Francisco**, this national gathering provides an essential opportunity to network, strategize, and celebrate with MENA and SWANA artists, activists, and scholars from around the country. Don’t miss your chance to join this spirited opportunity to share stories, learn about fellow cultures, and discover new ways of collaborating and honing our skills.
 
 Presented in conjunction with Golden Thread Productions’s ReOrient 2026 Festival, this year’s Convening focuses on an essential question: “How do we protect dissent today?” As theater makers, we must uplift and defend the voices of artists in our community, who are boldly expressing truths in a time of growing censorship and suppression. 
 
@@ -86,8 +82,6 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 
 7:30-10:00pm\
 **Performance: ReOrient 2026 Festival of Short Plays (tickets provided) & Post-Show Discussion with the ReOrient Playwrights on Zoom and in-person**
-
-
 
 Saturday October 24 – DAY 2
 
