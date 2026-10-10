@@ -274,7 +274,7 @@ board:
       image: img/headshot-nabra-nelson.avif
     - name: Torange Yeghiazarian
       loc: Oakland, CA
-      image: img/headshot-torange-yeghiazarian.avif
+      image: img/yeghizarian-torange-300x300.jpg
       bio: "**TORANGE YEGHIAZARIAN** is an award-winning playwright and director
         passionate about building community through theater. Her artistic
         practice reflects her values of radical hospitality and inclusiveness
