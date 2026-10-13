@@ -102,57 +102,123 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 
 #### **SATURDAY, OCTOBER 24, 2026 – DAY 2**
 
-8:30-9:15am\
-**COFFEE, LIGHT BREAKFAST**
+8:30-9:50am
 
-9:15-9:50am\
-**WELLNESS PRACTICE – HaMakom: Take Space (optional)**\
-*Start each day with this optional offering to help center your mind, body, and spirit. Led through the lens of MENA/SWANA facilitators, mindfulness practices may include meditation, simple movements, or creative practice. Suitable for all abilities and experience levels, sitting or standing, no special clothing required. Today’s practice is led through the lens of Awardee Debórah Eliezer of Aviva Arts, and will explore how we take up space with our imagination, breath and movement.* 
+COFFEE, LIGHT BREAKFAST, AND REGISTRATION  
 
-9:50-10:00am\
-**BREAK**
+Lobby 
 
-10:00am-12:00pm\
-**CREATING IN CRISIS**\
-**Moderator: Amal Bisharat** \
-*This hybrid session brings together artists from Palestine, Lebanon, Iran, and Sudan to explore what it means to create when crisis is not a distant event but an ongoing reality. How does art respond to moments that can feel impossible to represent? What does it mean to make work while remaining connected to people and places experiencing violence and upheaval? How do artists navigate the expectations placed on them to explain, document, mourn, resist, or speak for a place?*
 
-12:00-1:30pm\
-**LUNCH & CRAFT BREAK (lunch provided)**\
-*Enjoy a catered lunch for all attendees while dipping into crafts from around our MENA communities, a sneak peek for Sunday’s Traditional Arts session.*
 
-1:30-2:30pm\
-**AFFINITY JAM SESSION**\
-**Facilitator: Raymond Bobgan (Producing) with Affinity Group Leaders Kathy Haddad (Regional Collaborations), Malek Najjar & Hala Baki (Education), and Marjan Moosavi & Aycan Akçamete & Nakissa Etemad (Dramaturgy/Playwriting)**\
-*What does MENA collaboration look like within specific affinity groups? An opportunity to tap into vibrant smaller group discussions with dramaturgs, educators, regional collaborators, and producers.*
+9:15-9:50am
 
-2:30-2:45pm \
-**BREAK**
+WELLNESS PRACTICE – HaMakom: Take Space  
 
-2:45-4:15pm\
-**EMERGENT BEST PRACTICES IN MENA SPACES**\
-**Facilitators: Debórah Eliezer and Caitlin Nasema Cassidy** \
-*As our MENA community grows, how does our organizational practice align with our personal values, which are often in conflict with the systems in which we live and work? This participatory session will question prevailing work practices, source anecdotes from the group, and co-imagine better organizing protocols designed by and for the MENA/SWANA community.*
+Annex (Optional)
 
-4:15-4:30pm\
-**BREAK**
+Start each day with this optional offering to help center your mind, body, and spirit. Led through the lens of MENA/SWANA facilitators, mindfulness practices may include meditation, simple movements, or creative practice. Suitable for all abilities and experience levels, sitting or standing, no special clothing required. Today’s practice is led through the lens of Debórah Eliezer of Awardee Aviva Arts, and will explore how we take up space with our imagination, breath and movement. 
 
-4:30-5:30pm\
-**OPEN MIC SHARING**\
-**Facilitator: Denmo Ibrahim**\
-*Sign up for a short time slot to share an excerpt or short performance. This could be an excerpt of a script, a song, a poem or even a dance!* 
 
-5:30-7:00pm\
-**DINE-AROUND DINNERS**\
-*Choose-your-own-adventure dining at local restaurants! Facilitated dining in groups led by locals.*
 
-7:30-10:00pm\
-**PERFORMANCE OPTIONS** \
-**ReOrient 2026 Festival of Short Plays**\
-(at Potrero Stage, need tickets, 7:30pm start) 
+9:50-10:00am
 
-**Meem Collective’s Mornings in Jenin Musical Concert**\
-(at A.C.T. downtown SF, need tickets, doors open at 7:30pm, 8pm start)
+BREAK
+
+
+
+10:00am-12:00pm
+
+CREATING IN CRISIS
+
+Moderator: Amal Bisharat, Panelists: Sahba Aminikia of Awardee Flying Carpet Festival, Zoe Rabinowitz of Awardee Yaa Samar!, Sahar Assaf, Deniz Khateri, Samer Al-Saber 
+
+Potrero Stage (livestreamed on HowlRound)
+
+This hybrid session brings together artists from Palestine, Lebanon, and Iran,to explore what it means to create when crisis is not a distant event but an ongoing reality. How does art respond to moments that can feel impossible to represent? What does it mean to make work while remaining connected to people and places experiencing violence and upheaval? How do artists navigate the expectations placed on them to explain, document, mourn, resist, or speak for a place?
+
+
+
+12:00-1:30pm
+
+LUNCH (Provided) AND CRAFT BREAK
+
+Annex
+
+Enjoy a catered lunch for all attendees while exploring crafts from our MENA communities.
+
+
+
+1:30-2:30pm
+
+AFFINITY JAM SESSION
+
+Facilitator: Raymond Bobgan with Affinity Group Leaders including Kathy Haddad, Malek Najjar & Hala Baki, and Marjan Moosavi & Aycan Akçamete & Nakissa Etemad
+
+Annex
+
+What does collaboration look like within specific affinity groups? An opportunity to tap into vibrant smaller group discussions with dramaturgs, educators, regional collaborators, and producers.
+
+
+
+2:30-2:45pm
+
+BREAK
+
+
+
+2:45-4:15pm
+
+EMERGENT BEST PRACTICES IN MENA SPACES
+
+Facilitators: Debórah Eliezer of Awardee Aviva Arts and Caitlin Nasema Cassidy of Awardee LubDub Theatre Co.
+
+Potrero Stage
+
+As our MENA/SWANA community grows, how does our organizational practice align with our personal values, which may be in conflict with the systems in which we live and work? This participatory session will question prevailing work practices, source anecdotes from the group, and co-imagine better organizing protocols designed by and for the MENA/SWANA community.
+
+
+
+4:15-4:30pm
+
+BREAK
+
+
+
+4:30-5:30pm
+
+OPEN MIC SHARING
+
+Facilitator: Denmo Ibrahim 
+
+Potrero Stage
+
+Got some art to share? Sign up for a 3-5 minute time slot to share your work. Selections could be a reading from a script in development, a song, dance, poem or rant or more. 
+
+
+
+5:30-7:00pm
+
+DINNER DINE-AROUNDS
+
+Various (Optional)
+
+Choose-your-own-adventure dining at local restaurants! Facilitated dining in groups led by locals.Sign up sheets in the lobby. 
+
+
+
+7:30-10:00pm
+
+PERFORMANCE OPTIONS: 
+
+ReOrient 2026 Festival of Short Plays 
+
+(at Potrero Stage, need to purchase tickets, 7:30pm start) 
+
+Meem Collective’s Mornings in Jenin Musical Concert 
+
+(at Rueff Flex Space at A.C.T. Theatre (at the Strand Building), need to purchase tickets, doors open at 7:30pm, 8pm start)
+
+MENATMA members can use the code MENATHEATER for $10 off tickets here.
 
 #### **SUNDAY, OCTOBER 26, 2026 – DAY 3**
 
