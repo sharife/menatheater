@@ -93,17 +93,12 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 **Various** (Optional)\
 *Choose-your-own-adventure dining at local restaurants! Casual, facilitated conversations over dinner in groups led by locals. Sign up sheets in the lobby!*
 
-7:30-10:00pm
-
-PERFORMANCE:
-
-ReOrient 2026 Festival of Short Plays
-
-& Post-Show With ReOrient Playwrights
-
-Potrero Stage (Tickets Provided)
-
-The performance will be followed by a post-show discussion with the ReOrient playwrights in person and on Zoom. 
+7:30-10:00pm\
+**PERFORMANCE:**\
+**[ReOrient 2026 Festival of Short Plays](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000EsG69MAF)**\
+**& Post-Show With ReOrient Playwrights**\
+**Potrero Stage** (Tickets Provided)\
+*The performance will be followed by a post-show discussion with the ReOrient playwrights in person and on Zoom.* 
 
 #### **SATURDAY, OCTOBER 24, 2026 – DAY 2**
 
