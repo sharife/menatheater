@@ -187,13 +187,10 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 **BREAK** 
 
 11:30am-1:00pm\
-TRADITIONAL ARTS SHARE-OUT
-
-Introductions: Aidaa Peerzada, Featured Artists: Natalie Tannous (Tatreez), \*Jaleh Azar Etemad (TBD)\* (Multi-media Collage), Torange Yeghiazarian (Naghali)
-
-Annex
-
-Celebrate artistic traditions and contemporary practices from MENA regions in this exciting session. Three professional local artists share their artwork and traditional art forms and explore how cloth, collage, and community can hold story. Materials provided for moments of learning and participation from attendees. Sign-up in advance
+**TRADITIONAL ARTS SHARE-OUT**\
+**Introductions: Aidaa Peerzada, Featured Artists: Natalie Tannous (Tatreez), \*Jaleh Azar Etemad (TBD)\* (Multi-media Collage), Torange Yeghiazarian (Naghali)**\
+**Annex**\
+*Celebrate artistic traditions and contemporary practices from MENA regions in this exciting session. Three professional local artists share their artwork and traditional art forms and explore how cloth, collage, and community can hold story. Materials provided for moments of learning and participation from attendees. Sign-up in advance.*
 
 1:00-1:30pm
 
