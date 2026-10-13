@@ -111,21 +111,14 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 **Annex** (Optional)\
 *Start each day with this optional offering to help center your mind, body, and spirit. Led through the lens of MENA/SWANA facilitators, mindfulness practices may include meditation, simple movements, or creative practice. Suitable for all abilities and experience levels, sitting or standing, no special clothing required. Today’s practice is led through the lens of Debórah Eliezer of Awardee Aviva Arts, and will explore how we take up space with our imagination, breath and movement.* 
 
-9:50-10:00am
+9:50-10:00am\
+**BREAK**
 
-BREAK
-
-
-
-10:00am-12:00pm
-
-CREATING IN CRISIS
-
-Moderator: Amal Bisharat, Panelists: Sahba Aminikia of Awardee Flying Carpet Festival, Zoe Rabinowitz of Awardee Yaa Samar!, Sahar Assaf, Deniz Khateri, Samer Al-Saber 
-
-Potrero Stage (livestreamed on HowlRound)
-
-This hybrid session brings together artists from Palestine, Lebanon, and Iran,to explore what it means to create when crisis is not a distant event but an ongoing reality. How does art respond to moments that can feel impossible to represent? What does it mean to make work while remaining connected to people and places experiencing violence and upheaval? How do artists navigate the expectations placed on them to explain, document, mourn, resist, or speak for a place?
+10:00am-12:00pm\
+**CREATING IN CRISIS**\
+**Moderator: Amal Bisharat, Panelists: Sahba Aminikia of Awardee Flying Carpet Festival, Zoe Rabinowitz of Awardee Yaa Samar!, Sahar Assaf, Deniz Khateri, Samer Al-Saber** \
+**Potrero Stage** (Livestreamed on HowlRound)\
+*This hybrid session brings together artists from Palestine, Lebanon, and Iran,to explore what it means to create when crisis is not a distant event but an ongoing reality. How does art respond to moments that can feel impossible to represent? What does it mean to make work while remaining connected to people and places experiencing violence and upheaval? How do artists navigate the expectations placed on them to explain, document, mourn, resist, or speak for a place?*
 
 
 
