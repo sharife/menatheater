@@ -165,34 +165,72 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 
 #### **SUNDAY, OCTOBER 26, 2026 – DAY 3**
 
-8:30-9:15am\
-**COFFEE, LIGHT BREAKFAST**
+**8:30-9:15am**
 
-9:15-9:50am\
-**WELLNESS PRACTICE – Restoring Our Tools: Hands, Feet, Eyes (optional)**\
-*Start the day with this optional offering to help center your mind, body, and spirit. Led through the lens of Awardee Leyya Tawil of Dance Elixir (Oakland, CA), you are invited to "come as you are." This accessible somatic movement session will offer ways to prepare our hands, feet, and eyes for the work laid out before us. This practice includes simple movements, guided visualizations, and restorative techniques for our whole selves.* 
+**COFFEE AND LIGHT BREAKFAST**
 
-9:50-10:00am\
+**Lobby**
+
+
+
+**9:15-9:50am**
+
+**WELLNESS PRACTICE – Restoring Our Tools: Hands, Feet, Eyes** 
+
+**Annex (Optional)**
+
+**Start the day with this optional offering to help center your mind, body, and spirit. Led through the lens of Leyya Tawil of Awardee Dance Elixir (Oakland, CA), you are invited to "come as you are." This accessible somatic movement session will offer ways to prepare our hands, feet, and eyes for the work laid out before us. This practice includes simple movements, guided visualizations, and restorative techniques for our whole selves.** 
+
+
+
+**9:50-10:00am**
+
 **BREAK**
 
-10:00-11:15am\
-**SHAPING THE FUTURE OF MENATMA: HOW CAN WE SERVE YOU?**\
-**Facilitators:  Sherrine Azab and Kate Moore Heaney**\
-*We want to hear from you! Join this participatory session to contribute your ideas, requests, and vision for MENATMA’s future. Learn about the launch of MENATMA’s membership program and ways to connect.*
 
-11:15-11:30am\
-**BREAK WITH SUBSTANTIAL SNACKS**
 
-11:30am-1:00pm\
-**TRADITIONAL ARTS SHARE-OUT**\
-**Introductions: Aidaa Peerzada**
+**10:00-11:15am**
 
-1:00-1:30pm\
-**CONVENING CLOSING** 
+**SHAPING THE FUTURE OF MENATMA: HOW CAN WE SERVE YOU?**
 
-1:30-2pm\
-**BREAK (on your own)** 
+**Facilitators: MENATMA Board Members Sherrine Azab and Kate Moore Heaney**
 
-2:00-4:30pm\
-**PERFORMANCE**\
-**ReOrient 2026 Festival of Short Plays – (optional, need tickets)**
+**Potrero Stage**
+
+**We want to hear from you! Join this participatory session to contribute your ideas, requests, and vision for MENATMA’s future. Learn about the launch of MENATMA’s membership program and ways to connect.**
+
+
+
+**11:15-11:30am**
+
+**BREAK** 
+
+
+
+**11:30am-1:00pm**
+
+**TRADITIONAL ARTS SHARE-OUT**
+
+**Introductions: Aidaa Peerzada, Featured Artists: Natalie Tannous (Tatreez), \*Jaleh Azar Etemad (TBD)\* (Multi-media Collage), Torange Yeghiazarian (Naghali)**
+
+**Annex**
+
+**Celebrate artistic traditions and contemporary practices from MENA regions in this exciting session. Three professional local artists share their artwork and traditional art forms and explore how cloth, collage, and community can hold story. Materials provided for moments of learning and participation from attendees. Sign-up in advance**
+
+
+
+**1:00-1:30pm**
+
+**CONVENING CLOSING**
+
+**Annex**
+
+
+
+**2:00-4:30pm**
+
+**PERFORMANCE:** 
+
+**ReOrient 2026 Festival of Short Plays**
+
+**Potrero Stage (Optional, need to purchase tickets)**
