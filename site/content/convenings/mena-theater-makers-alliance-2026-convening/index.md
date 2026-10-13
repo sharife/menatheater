@@ -102,23 +102,14 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 
 #### **SATURDAY, OCTOBER 24, 2026 – DAY 2**
 
-8:30-9:50am
+8:30-9:50am\
+**COFFEE, LIGHT BREAKFAST, AND REGISTRATION**  \
+**Lobby** 
 
-COFFEE, LIGHT BREAKFAST, AND REGISTRATION  
-
-Lobby 
-
-
-
-9:15-9:50am
-
-WELLNESS PRACTICE – HaMakom: Take Space  
-
-Annex (Optional)
-
-Start each day with this optional offering to help center your mind, body, and spirit. Led through the lens of MENA/SWANA facilitators, mindfulness practices may include meditation, simple movements, or creative practice. Suitable for all abilities and experience levels, sitting or standing, no special clothing required. Today’s practice is led through the lens of Debórah Eliezer of Awardee Aviva Arts, and will explore how we take up space with our imagination, breath and movement. 
-
-
+9:15-9:50am\
+**WELLNESS PRACTICE – HaMakom: Take Space**  \
+**Annex** (Optional)\
+*Start each day with this optional offering to help center your mind, body, and spirit. Led through the lens of MENA/SWANA facilitators, mindfulness practices may include meditation, simple movements, or creative practice. Suitable for all abilities and experience levels, sitting or standing, no special clothing required. Today’s practice is led through the lens of Debórah Eliezer of Awardee Aviva Arts, and will explore how we take up space with our imagination, breath and movement.* 
 
 9:50-10:00am
 
