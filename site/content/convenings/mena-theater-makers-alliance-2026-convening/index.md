@@ -64,19 +64,14 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 **Annex**\
 *Catered lunch for all attendees. Pitch Session: Sign up for a five-minute time slot to pitch a new or existing project, or just to talk about your artistic work or company! (Slots are first come, first served.)*
 
-2:30-2:45pm
+2:30-2:45pm\
+**BREAK**
 
-BREAK
-
-2:45-4:00pm
-
-AWARDEE INTRODUCTIONS AND SHARING
-
-Facilitators: Sarah Dahnke and Torange Yeghiazarian, 
-
-Potrero Stage (livestreamed on HowlRound)
-
-Introducing the inaugural awardees of The MENA Theater Makers Fund, MENATMA’s historic funding initiative, the first of its kind for MENA artists and organizations that provides unprecedented and significant investment in MENA theater in the U.S. This session will feature and celebrate a number of awardees out of 18 total recipients who represent some of the most impactful MENA and SWANA voices working in American theater today.  
+2:45-4:00pm\
+**AWARDEE INTRODUCTIONS AND SHARING**\
+**Facilitators: Sarah Dahnke and Torange Yeghiazarian**\
+**Potrero Stage** (Livestreamed on HowlRound)\
+*Introducing the inaugural awardees of The MENA Theater Makers Fund, MENATMA’s historic funding initiative, the first of its kind for MENA artists and organizations that provides unprecedented and significant investment in MENA theater in the U.S. This session will feature and celebrate a number of awardees out of 18 total recipients who represent some of the most impactful MENA and SWANA voices working in American theater today.*  
 
 4:00-4:15pm
 
