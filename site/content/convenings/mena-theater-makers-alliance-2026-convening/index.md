@@ -25,39 +25,22 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 
 #### **FRIDAY, OCTOBER 23, 2026 – DAY 1**
 
-8:30-9:50am 
+8:30-9:50am \
+**COFFEE, LIGHT BREAKFAST, AND REGISTRATION** \
+**Lobby**
 
-COFFEE, LIGHT BREAKFAST, AND REGISTRATION 
+9:15-9:50am \
+**WELLNESS PRACTICE – Meditation: 3rd Foundation of Mindfulness**\
+**Annex** (Optional)\
+*Start each day with this optional offering to help center your mind, body, and spirit. Led through the lens of MENA/SWANA facilitators, mindfulness practices may include meditation, simple movements, or creative practice. Suitable for all abilities and experience levels, sitting or standing, no special clothing required. Today’s practice, led by Amal Bisharat of Meem Collective, will explore mindfulness of consciousness, observing our mental states without judgment and meeting ourselves with acceptance and compassion.* 
 
-Lobby
+9:50-10:00am\
+**BREAK**
 
-
-
-9:15-9:50am 
-
-WELLNESS PRACTICE – Meditation: 3rd Foundation of Mindfulness
-
-Annex (optional)
-
-Start each day with this optional offering to help center your mind, body, and spirit. Led through the lens of MENA/SWANA facilitators, mindfulness practices may include meditation, simple movements, or creative practice. Suitable for all abilities and experience levels, sitting or standing, no special clothing required. Today’s practice, led by Amal Bisharat of Meem Collective, will explore mindfulness of consciousness, observing our mental states without judgment and meeting ourselves with acceptance and compassion. 
-
-
-
-9:50-10:00am
-
-BREAK
-
-
-
-10:00-10:45am
-
-CONVENING WELCOME
-
-Potrero Stage (livestreamed by Howlround)
-
-Don’t miss the official start of the convening featuring MENATMA Board Chair Denmo Ibrahim, Golden Thread Artistic Director Nabra Nelson, MENATMA Programming Chair Debórah Eliezer and meet our new General Manager, Sarah Dahnke. Get energized for the weekend and hear about MENATMA’s exciting updates and programs!
-
-
+10:00-10:45am\
+**CONVENING WELCOME**\
+**Potrero Stage** (Livestreamed by Howlround)\
+*Don’t miss the official start of the convening featuring MENATMA Board Chair Denmo Ibrahim, Golden Thread Artistic Director Nabra Nelson, MENATMA Programming Chair Debórah Eliezer and meet our new General Manager, Sarah Dahnke. Get energized for the weekend and hear about MENATMA’s exciting updates and programs!*
 
 10:45-11:45am
 
