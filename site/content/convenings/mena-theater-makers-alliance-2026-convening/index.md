@@ -82,15 +82,11 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 **Potrero Stage** (Livestreamed on HowlRound)\
 *MENA theater makers of various disciplines share how they began their careers, adapted, and evolved to make their mark in the American theater landscape. What is the collective impact made by our community, and how do we preserve our collective wisdom? How do we actively resist the erasure of our history, and break the ‘silo’ to become a consistent part of the mainstream? What can we incorporate from our theatrical and cultural pasts to help us enrich today's theater culture?* 
 
-5:30-5:45pm 
-
-SRCC PRESENTS SURVEY (AND INVITATION TO PARTICIPATE)
-
-Presenters: Tasneem Mandviwala from Silk Road Cultural Center & Malek Najjar 
-
-Potrero Stage
-
-Silk Road Cultural Center presents its cultural mapping research project of surveys and interviews to examine the experiences, needs, barriers, and contributions of Southwest Asian and North African theatre artists and arts organizations across the United States. Supported by The Wallace Foundation, the study aims to better understand the landscape of the field and the resources SWANA artists need to thrive, and to help strengthen connections, increase visibility, and inform future advocacy, investment, and support. 
+5:30-5:45pm \
+**SRCC PRESENTS SURVEY (AND INVITATION TO PARTICIPATE)**\
+**Presenters: Tasneem Mandviwala from Silk Road Cultural Center & Malek Najjar** \
+**Potrero Stage**\
+*Silk Road Cultural Center presents its cultural mapping research project of surveys and interviews to examine the experiences, needs, barriers, and contributions of Southwest Asian and North African theatre artists and arts organizations across the United States. Supported by The Wallace Foundation, the study aims to better understand the landscape of the field and the resources SWANA artists need to thrive, and to help strengthen connections, increase visibility, and inform future advocacy, investment, and support.* 
 
 5:45-7:00pm
 
