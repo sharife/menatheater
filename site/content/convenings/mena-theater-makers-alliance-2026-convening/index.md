@@ -155,13 +155,13 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 *Choose-your-own-adventure dining at local restaurants! Facilitated dining in groups led by locals.Sign up sheets in the lobby.* 
 
 7:30-10:00pm\
-**PERFORMANCE OPTIONS:** \
-**[ReOrient 2026 Festival of Short Plays ](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000EsG69MAF)**\
-(at Potrero Stage, need to purchase tickets, 7:30pm start) 
+**PERFORMANCE OPTIONS:** 
 
-**[Meem Collective’s Mornings in Jenin Musical Concert](https://www.eventbrite.com/e/mornings-in-jenin-musical-a-concert-presentation-tickets-1997333991736?aff=oddtdtcreator&keep_tld=true)** \
-(at Rueff Flex Space at A.C.T. Theatre (at the Strand Building), need to purchase tickets, doors open at 7:30pm, 8pm start)\
-MENATMA members can use the code MENATHEATER for $10 off tickets here.
+* **[ReOrient 2026 Festival of Short Plays ](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000EsG69MAF)**\
+  (at Potrero Stage, need to purchase tickets, 7:30pm start) 
+* **[Meem Collective’s Mornings in Jenin Musical Concert](https://www.eventbrite.com/e/mornings-in-jenin-musical-a-concert-presentation-tickets-1997333991736?aff=oddtdtcreator&keep_tld=true)** \
+  (at Rueff Flex Space at A.C.T. Theatre (at the Strand Building), need to purchase tickets, doors open at 7:30pm, 8pm start)\
+  MENATMA members can use the code MENATHEATER for $10 off tickets here.
 
 #### **SUNDAY, OCTOBER 26, 2026 – DAY 3**
 
