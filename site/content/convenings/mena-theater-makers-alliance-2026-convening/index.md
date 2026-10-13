@@ -88,13 +88,10 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 **Potrero Stage**\
 *Silk Road Cultural Center presents its cultural mapping research project of surveys and interviews to examine the experiences, needs, barriers, and contributions of Southwest Asian and North African theatre artists and arts organizations across the United States. Supported by The Wallace Foundation, the study aims to better understand the landscape of the field and the resources SWANA artists need to thrive, and to help strengthen connections, increase visibility, and inform future advocacy, investment, and support.* 
 
-5:45-7:00pm
-
-DINNER DINE-AROUNDS
-
-Various (optional)
-
-Choose-your-own-adventure dining at local restaurants! Casual, facilitated conversations over dinner in groups led by locals. Sign up sheets in the lobby!
+5:45-7:00pm\
+**DINNER DINE-AROUNDS**\
+**Various** (Optional)\
+*Choose-your-own-adventure dining at local restaurants! Casual, facilitated conversations over dinner in groups led by locals. Sign up sheets in the lobby!*
 
 7:30-10:00pm
 
