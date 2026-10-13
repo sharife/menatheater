@@ -192,16 +192,10 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 **Annex**\
 *Celebrate artistic traditions and contemporary practices from MENA regions in this exciting session. Three professional local artists share their artwork and traditional art forms and explore how cloth, collage, and community can hold story. Materials provided for moments of learning and participation from attendees. Sign-up in advance.*
 
-1:00-1:30pm
+1:00-1:30pm\
+**CONVENING CLOSING**\
+**Annex**
 
-CONVENING CLOSING
-
-Annex
-
-2:00-4:30pm
-
-PERFORMANCE: 
-
-ReOrient 2026 Festival of Short Plays
-
-Potrero Stage (Optional, need to purchase tickets)
+2:00-4:30pm\
+**PERFORMANCE: [ReOrient 2026 Festival of Short Plays](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000EsG69MAF)**\
+**Potrero Stage** (Optional, need to purchase tickets)
