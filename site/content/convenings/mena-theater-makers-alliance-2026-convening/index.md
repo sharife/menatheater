@@ -71,14 +71,12 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 **AWARDEE INTRODUCTIONS AND SHARING**\
 **Facilitators: Sarah Dahnke and Torange Yeghiazarian**\
 **Potrero Stage** (Livestreamed on HowlRound)\
-*Introducing the inaugural awardees of The MENA Theater Makers Fund, MENATMA’s historic funding initiative, the first of its kind for MENA artists and organizations that provides unprecedented and significant investment in MENA theater in the U.S. This session will feature and celebrate a number of awardees out of 18 total recipients who represent some of the most impactful MENA and SWANA voices working in American theater today.*  
+*Introducing the inaugural awardees of [The MENA Theater Makers Fund](https://menatheater.org/announcements/announcing-mena-theater-makers-fund-awardees/), MENATMA’s historic funding initiative, the first of its kind for MENA artists and organizations that provides unprecedented and significant investment in MENA theater in the U.S. This session will feature and celebrate a number of awardees out of 18 total recipients who represent some of the most impactful MENA and SWANA voices working in American theater today.*  
 
-4:00-4:15pm
+4:00-4:15pm\
+**BREAK**
 
-BREAK
-
-4:15-5:30pm
-
+4:15-5:30pm\
 FORGING OUR PATHS AS MENA ARTISTS
 
 Moderator: Aidaa Peerzada, Panelists include Nakissa Etemad, Nora El Samahy, and Sona Tatoyan of Awardee Hakawati 
