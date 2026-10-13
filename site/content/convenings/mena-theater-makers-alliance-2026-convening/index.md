@@ -58,15 +58,11 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 **Annex**\
 *Join us for a fun, structured, speed-networking session where you will get a chance to meet new friends and colleagues.* 
 
-1:15-2:30pm 
-
-LUNCH (Provided) AND PITCH SESSION SHARING
-
-Facilitator: Tracy Francis
-
-Annex
-
-Catered lunch for all attendees. Pitch Session: Sign up for a five-minute time slot to pitch a new or existing project, or just to talk about your artistic work or company! (Slots are first come, first served.)
+1:15-2:30pm \
+**LUNCH (PROVIDED) AND PITCH SESSION SHARING**\
+**Facilitator: Tracy Francis**\
+**Annex**\
+*Catered lunch for all attendees. Pitch Session: Sign up for a five-minute time slot to pitch a new or existing project, or just to talk about your artistic work or company! (Slots are first come, first served.)*
 
 2:30-2:45pm
 
