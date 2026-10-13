@@ -131,13 +131,8 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 **Annex**\
 *What does collaboration look like within specific affinity groups? An opportunity to tap into vibrant smaller group discussions with dramaturgs, educators, regional collaborators, and producers.*
 
-
-
-2:30-2:45pm
-
-BREAK
-
-
+2:30-2:45pm\
+**BREAK**
 
 2:45-4:15pm
 
