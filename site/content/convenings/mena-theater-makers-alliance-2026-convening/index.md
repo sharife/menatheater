@@ -120,27 +120,16 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 **Potrero Stage** (Livestreamed on HowlRound)\
 *This hybrid session brings together artists from Palestine, Lebanon, and Iran,to explore what it means to create when crisis is not a distant event but an ongoing reality. How does art respond to moments that can feel impossible to represent? What does it mean to make work while remaining connected to people and places experiencing violence and upheaval? How do artists navigate the expectations placed on them to explain, document, mourn, resist, or speak for a place?*
 
+12:00-1:30pm\
+**LUNCH (PROVIDED) AND CRAFT BREAK**\
+**Annex**\
+*Enjoy a catered lunch for all attendees while exploring crafts from our MENA communities.*
 
-
-12:00-1:30pm
-
-LUNCH (Provided) AND CRAFT BREAK
-
-Annex
-
-Enjoy a catered lunch for all attendees while exploring crafts from our MENA communities.
-
-
-
-1:30-2:30pm
-
-AFFINITY JAM SESSION
-
-Facilitator: Raymond Bobgan with Affinity Group Leaders including Kathy Haddad, Malek Najjar & Hala Baki, and Marjan Moosavi & Aycan Akçamete & Nakissa Etemad
-
-Annex
-
-What does collaboration look like within specific affinity groups? An opportunity to tap into vibrant smaller group discussions with dramaturgs, educators, regional collaborators, and producers.
+1:30-2:30pm\
+**AFFINITY JAM SESSION**\
+**Facilitator: Raymond Bobgan with Affinity Group Leaders including Kathy Haddad, Malek Najjar & Hala Baki, and Marjan Moosavi & Aycan Akçamete & Nakissa Etemad**\
+**Annex**\
+*What does collaboration look like within specific affinity groups? An opportunity to tap into vibrant smaller group discussions with dramaturgs, educators, regional collaborators, and producers.*
 
 
 
