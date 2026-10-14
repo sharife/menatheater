@@ -52,13 +52,13 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 **GROUP PHOTO**\
 **Potrero Stage**
 
-12:00-1:15pm \
+12:00-1:00pm \
 **MUSICAL CHAIRS NETWORKING**\
 **Facilitator: Tracy Francis**\
 **Annex**\
 *Join us for a fun, structured, speed-networking session where you will get a chance to meet new friends and colleagues.* 
 
-1:15-2:30pm \
+1:00-2:30pm \
 **LUNCH (PROVIDED) AND PITCH SESSION SHARING**\
 **Facilitator: Tracy Francis**\
 **Annex**\
