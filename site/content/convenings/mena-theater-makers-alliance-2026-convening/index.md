@@ -84,7 +84,7 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 
 5:30-5:45pm \
 **SRCC PRESENTS SURVEY (AND INVITATION TO PARTICIPATE)**\
-**Presenters: Tasneem Mandviwala from Silk Road Cultural Center & Malek Najjar** \
+**Presenters: Tasneem Mandviwala from Silk Road Cultural Center and Malek Najjar** \
 **Potrero Stage**\
 *Silk Road Cultural Center presents its cultural mapping research project of surveys and interviews to examine the experiences, needs, barriers, and contributions of Southwest Asian and North African theatre artists and arts organizations across the United States. Supported by The Wallace Foundation, the study aims to better understand the landscape of the field and the resources SWANA artists need to thrive, and to help strengthen connections, increase visibility, and inform future advocacy, investment, and support.* 
 
@@ -116,7 +116,7 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 
 10:00am-12:00pm\
 **CREATING IN CRISIS**\
-**Moderator: Amal Bisharat, Panelists: Sahba Aminikia of Awardee Flying Carpet Festival, Zoe Rabinowitz of Awardee Yaa Samar!, Sahar Assaf, Deniz Khateri, Samer Al-Saber** \
+**Moderator: Amal Bisharat; Panelists: Samer Al-Saber, Sahba Aminikia of Awardee Flying Carpet Festival, Sahar Assaf, Deniz Khateri, and Zoe Rabinowitz of Awardee Yaa Samar!** \
 **Potrero Stage** (Livestreamed on HowlRound)\
 *This hybrid session brings together artists from Palestine, Lebanon, and Iran,to explore what it means to create when crisis is not a distant event but an ongoing reality. How does art respond to moments that can feel impossible to represent? What does it mean to make work while remaining connected to people and places experiencing violence and upheaval? How do artists navigate the expectations placed on them to explain, document, mourn, resist, or speak for a place?*
 
@@ -188,7 +188,7 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 
 11:30am-1:00pm\
 **TRADITIONAL ARTS SHARE-OUT**\
-**Introductions: Aidaa Peerzada, Featured Artists: Natalie Tannous (Tatreez), \*Jaleh Azar Etemad (TBD)\* (Multi-media Collage), Torange Yeghiazarian (Naghali)**\
+**Introductions: Aidaa Peerzada; Featured Artists: \*Jaleh Azar Etemad (TBD)\* (Multi-media Collage), Natalie Tannous (Tatreez), and Torange Yeghiazarian (Naghali)**\
 **Annex**\
 *Celebrate artistic traditions and contemporary practices from MENA regions in this exciting session. Three professional local artists share their artwork and traditional art forms and explore how cloth, collage, and community can hold story. Materials provided for moments of learning and participation from attendees. Sign-up in advance.*
 
