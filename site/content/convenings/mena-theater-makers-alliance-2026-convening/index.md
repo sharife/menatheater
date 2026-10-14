@@ -127,7 +127,7 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 
 1:30-2:30pm\
 **AFFINITY JAM SESSION**\
-**Facilitator: Raymond Bobgan with Affinity Group Leaders including Kathy Haddad, Malek Najjar & Hala Baki, and Marjan Moosavi & Aycan Akçamete & Nakissa Etemad**\
+**Facilitator: Raymond Bobgan with Affinity Group Leaders, including Aycan Akçamete, Hala Baki, Nakissa Etemad, Kathy Haddad and Malek Najjar**\
 **Annex**\
 *What does collaboration look like within specific affinity groups? An opportunity to tap into vibrant smaller group discussions with dramaturgs, educators, regional collaborators, and producers.*
 
