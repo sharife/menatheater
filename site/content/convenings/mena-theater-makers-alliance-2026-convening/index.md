@@ -44,7 +44,7 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 
 10:45-11:45am\
 **PROTECTING DISSENT: CELEBRATING VOICES FROM THE MIDDLE EAST AND NORTH AFRICA**\
-**Moderator: Catherine Coray, Panelists: Andrea Assaf,  Nabra Nelson and Yussef el Guindi**\
+**Moderator: Catherine Coray, Panelists: Andrea Assaf,  Nabra Nelson and Yussef El Guindi**\
 **Potrero Stage** (Livestreamed on HowlRound)\
 *How does MENA theater respond to the systemic silencing of our community? How do we protect dissent today? As theater makers, we must uplift and defend the voices of artists in our community who are boldly expressing truths in a time of growing censorship and suppression. This session offers a robust conversation on the theme of this year’s convening with established organizational leaders working in MENA theater today.*
 
