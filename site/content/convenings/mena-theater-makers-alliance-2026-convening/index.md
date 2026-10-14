@@ -78,7 +78,7 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 
 4:15-5:30pm\
 **FORGING OUR PATHS AS MENA ARTISTS**\
-**Moderator: Aidaa Peerzada, Panelists include Nakissa Etemad, Nora El Samahy, and Sona Tatoyan of Awardee Hakawati** \
+**Moderator: Aidaa Peerzada; Panelists include Nora el Samahy, Nakissa Etemad, and Sona Tatoyan of Awardee Hakawati** \
 **Potrero Stage** (Livestreamed on HowlRound)\
 *MENA theater makers of various disciplines share how they began their careers, adapted, and evolved to make their mark in the American theater landscape. What is the collective impact made by our community, and how do we preserve our collective wisdom? How do we actively resist the erasure of our history, and break the ‘silo’ to become a consistent part of the mainstream? What can we incorporate from our theatrical and cultural pasts to help us enrich today's theater culture?* 
 
