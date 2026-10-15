@@ -177,11 +177,17 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 9:50-10:00am\
 **BREAK**
 
-10:00-11:15am\
-**SHAPING THE FUTURE OF MENATMA: HOW CAN WE SERVE YOU?**\
-**Facilitators: MENATMA Board Members Sherrine Azab and Kate Moore Heaney**\
-**Potrero Stage**\
-*We want to hear from you! Join this participatory session to contribute your ideas, requests, and vision for MENATMA’s future. Learn about the launch of MENATMA’s membership program and ways to connect.*
+10:00-11:15am 
+
+THE OFFICIAL LAUNCH OF MENATMA MEMBERSHIP
+
+Facilitators: Sherrine Azab and Kate Moore Heaney
+
+Potrero Stage
+
+Learn about the launch of MENATMA’s membership program and ways to connect. Get a tour of the membership platform and the benefits you will have access to. Share your thoughts and wishes for the future of the membership program and join the network.
+
+
 
 11:15-11:30am\
 **BREAK** 
