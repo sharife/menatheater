@@ -146,7 +146,7 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 **OPEN MIC SHARING**\
 **Facilitator: Denmo Ibrahim** \
 **Potrero Stage**\
-*Got some art to share? Sign up for a 3-5 minute time slot to share your work. Selections could be a reading from a script in development, a song, dance, poem or rant or more.* 
+*Got some art to share? Sign up for a 3-5 minute time slot to share your work. Selections could be a reading from a script in development, a song, dance, poem or rant, or more.* 
 
 5:30-7:00pm\
 **DINNER DINE-AROUNDS**\
