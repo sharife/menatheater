@@ -96,9 +96,8 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 7:30-10:00pm\
 **PERFORMANCE:**\
 **[ReOrient 2026 Festival of Short Plays](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000EsG69MAF)**\
-**& Post-Show With ReOrient Playwrights**\
 **Potrero Stage** (Tickets Provided)\
-*The performance will be followed by a post-show discussion with the ReOrient playwrights in person and on Zoom.* 
+*Mingle with ReOrient artists after the show!*  
 
 #### **SATURDAY, OCTOBER 24, 2026 – DAY 2**
 
@@ -118,7 +117,7 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 **CREATING IN CRISIS**\
 **Moderator: Amal Bisharat; Panelists: Samer Al-Saber, Sahba Aminikia of Awardee Flying Carpet Festival, Sahar Assaf, Deniz Khateri, and Zoe Rabinowitz of Awardee Yaa Samar!** \
 **Potrero Stage** (Livestreamed on HowlRound)\
-*This hybrid session brings together artists from Palestine, Lebanon, and Iran,to explore what it means to create when crisis is not a distant event but an ongoing reality. How does art respond to moments that can feel impossible to represent? What does it mean to make work while remaining connected to people and places experiencing violence and upheaval? How do artists navigate the expectations placed on them to explain, document, mourn, resist, or speak for a place?*
+*This hybrid session brings together artists from Palestine, Lebanon, and Iran, to explore what it means to create when crisis is not a distant event but an ongoing reality. How does art respond to moments that can feel impossible to represent? What does it mean to make work while remaining connected to people and places experiencing violence and upheaval? How do artists navigate the expectations placed on them to explain, document, mourn, resist, or speak for a place?*
 
 12:00-1:30pm\
 **LUNCH (PROVIDED) AND CRAFT BREAK**\
