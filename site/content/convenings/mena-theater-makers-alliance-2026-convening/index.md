@@ -196,5 +196,6 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 **Annex**
 
 2:00-4:30pm\
-**PERFORMANCE: [ReOrient 2026 Festival of Short Plays](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000EsG69MAF)**\
+**PERFORMANCE:**\
+**[ReOrient 2026 Festival of Short Plays](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000EsG69MAF)**\
 **Potrero Stage** (Optional, need to purchase tickets)
