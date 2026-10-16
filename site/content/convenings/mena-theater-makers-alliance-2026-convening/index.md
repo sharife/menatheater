@@ -135,7 +135,7 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 
 2:45-4:15pm\
 **EMERGENT BEST PRACTICES IN MENA SPACES**\
-**Facilitators: Debórah Eliezer of Awardee Aviva Arts and Caitlin Nasema Cassidy of Awardee LubDub Theatre Co.**\
+**Facilitators: Debórah Eliezer of Awardee Aviva Arts and Caitlin Nasema Cassidy of Awardee LubDub Theatre Co**\
 **Potrero Stage**\
 *As our MENA/SWANA community grows, how does our organizational practice align with our personal values, which may be in conflict with the systems in which we live and work? This participatory session will question prevailing work practices, source anecdotes from the group, and co-imagine better organizing protocols designed by and for the MENA/SWANA community.*
 
