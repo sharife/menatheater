@@ -151,7 +151,7 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 5:30-7:00pm\
 **DINNER DINE-AROUNDS**\
 **Various** (Optional)\
-*Choose-your-own-adventure dining at local restaurants! Facilitated dining in groups led by locals.Sign up sheets in the lobby.* 
+*Choose-your-own-adventure dining at local restaurants! Facilitated dining in groups led by locals. Sign up sheets in the lobby.* 
 
 7:30-10:00pm\
 **PERFORMANCE OPTIONS:** 
