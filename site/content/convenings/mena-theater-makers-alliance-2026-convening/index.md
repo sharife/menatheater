@@ -163,7 +163,7 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
   (at Rueff Flex Space at A.C.T. Theatre (at the Strand Building), need to purchase tickets, doors open at 7:30pm, 8pm start)\
   MENATMA members can use the code MENATHEATER for $10 off tickets here.
 
-#### **SUNDAY, OCTOBER 26, 2026 – DAY 3**
+#### **SUNDAY, OCTOBER 25, 2026 – DAY 3**
 
 8:30-9:15am\
 **COFFEE AND LIGHT BREAKFAST**\
