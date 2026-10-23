@@ -195,6 +195,7 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 
 1:00-1:30pm\
 **CONVENING CLOSING**\
+**Facilitators: MENATMA Board Chair and Members Denmo Ibrahim, Debórah Eliezer, and Nabra Nelson**\
 **Annex**
 
 2:00-4:30pm\
