@@ -158,9 +158,11 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 
 * **[ReOrient 2026 Festival of Short Plays ](https://goldenthread.my.salesforce-sites.com/ticket/#/events/a0SRh00000EsG69MAF)**\
   (at Potrero Stage, need to purchase tickets, 7:30pm start) 
-* **[Meem Collective’s Mornings in Jenin Musical Concert](https://www.eventbrite.com/e/mornings-in-jenin-musical-a-concert-presentation-tickets-1997333991736?aff=oddtdtcreator&keep_tld=true)** \
+* **[Meem Collective’s *Mornings in Jenin Musical* Concert](https://www.eventbrite.com/e/mornings-in-jenin-musical-a-concert-presentation-tickets-1997333991736?aff=oddtdtcreator&keep_tld=true)** \
   (at The Rueff at A.C.T.’s Strand Theater, need to purchase tickets, doors open at 7:30pm, 8pm start)\
   *MENATMA members can use the code MENATHEATER for $10 off tickets [here](https://www.eventbrite.com/e/mornings-in-jenin-musical-a-concert-presentation-tickets-1997333991736).*
+* **[Reading of *Kintsugi* by Ana Bayat](https://ci.ovationtix.com/36170/production/1293282?performanceId=11877177)** \
+  (at Theatre Yugen, free admission, 8pm start)
 
 #### **SUNDAY, OCTOBER 25, 2026 – DAY 3**
 
