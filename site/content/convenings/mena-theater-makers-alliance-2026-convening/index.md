@@ -17,7 +17,9 @@ Following MENATMA’s groundbreaking MENA Theater Makers Fund announcement earli
 
 All registrants will receive a ticket to Golden Thread’s ReOrient 2026 Festival for Friday evening.
 
-### **[Register for the Convening today!](https://www.zeffy.com/en-US/ticketing/menatma-2026-fall-convening)**
+### **[Register for the Convening today.](https://www.zeffy.com/en-US/ticketing/menatma-2026-fall-convening)**
+
+### **[Watch on HowlRoundTV.](https://howlround.com/happenings/protecting-dissent-celebrating-middle-eastern-and-north-african-theatre)**
 
 Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden Thread Productions**.
 
