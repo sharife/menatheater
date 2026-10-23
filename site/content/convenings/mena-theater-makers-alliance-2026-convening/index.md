@@ -54,7 +54,7 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 
 12:00-1:00pm \
 **MUSICAL CHAIRS NETWORKING**\
-**Facilitator: MENATMA Board Member Tracy Francis and Sami Ismat of Awardee Chicago SWANA Collective**\
+**Facilitators: MENATMA Board Member Tracy Francis and Sami Ismat of Awardee Chicago SWANA Collective**\
 **Annex**\
 *Join us for a fun, structured, speed-networking session where you will get a chance to meet new friends and colleagues.* 
 
