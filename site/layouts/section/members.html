@@ -1,0 +1,414 @@
+{{ define "main" }}
+
+<!-- {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }} -->
+
+{{ if .Params.intro }}
+  {{ partial "short-text" (dict "heading" .Params.intro) }}
+{{ end }}
+
+
+<div class="mw7 center ph3 pv4">
+
+<style>
+  /* ---- MENATMA membership page ----
+     Every rule is scoped to .membership so nothing leaks into the rest of the site. */
+
+  .membership {
+    --mena: var(--secondary);        /* MENA accent */
+    --ally: var(--primary);        /* Ally accent */
+    --tone: var(--mena);    /* current accent; switched to --ally inside Ally blocks */
+    --muted: #6b625a;
+    --line: #e2ddd6;
+    --panel: #f7f4f0;
+    --card-bg: #ffffff;
+    --radius: 12px;
+
+    line-height: 1.6;
+  }
+
+  .membership .is-ally { --tone: var(--ally); }
+
+  .membership p { margin: 0 0 1rem; }
+
+  /* ---------- Type scale ---------- */
+  .membership h2 {
+    margin: 0 0 1rem;
+    font-size: 1.75rem;
+    font-weight: 700;
+    line-height: 1.25;
+  }
+
+  .membership h3 {
+    margin: 0 0 1.25rem;
+    padding-left: 0.85rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1.3;
+    border-left: 5px solid var(--tone);
+  }
+
+  .membership h4 {
+    margin: 0 0 0.75rem;
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 1.35;
+  }
+
+  .membership .eyebrow {
+    margin: 0 0 0.75rem;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--tone);
+  }
+
+  .membership .muted { color: var(--muted); }
+
+  /* ---------- Category cards ---------- */
+  .membership-nav {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1rem;
+    margin: 1.5rem 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .membership-nav li { display: flex; margin: 0; }
+
+  .membership-nav a {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    gap: 0.2rem;
+    min-height: 8rem;
+    padding: 1.1rem 1rem;
+    color: inherit;
+    text-decoration: none;
+    background: var(--card-bg);
+    border: 1px solid var(--line);
+    border-top: 4px solid var(--tone);
+    border-radius: var(--radius);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+  }
+
+  .membership-nav .kicker {
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--tone);
+  }
+
+  .membership-nav .title {
+    font-size: 1.05rem;
+    font-weight: 700;
+    line-height: 1.25;
+    transition: color 0.2s ease;
+  }
+
+  .membership-nav .from {
+    margin-top: auto;
+    font-size: 0.85rem;
+    color: var(--muted);
+  }
+
+  .membership-nav a:hover,
+  .membership-nav a:focus-visible {
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.10);
+    transform: translateY(-2px);
+  }
+
+  .membership-nav a:hover .title,
+  .membership-nav a:focus-visible .title { color: var(--tone); }
+
+  .membership-nav a:focus-visible {
+    outline: 2px solid var(--tone);
+    outline-offset: 2px;
+  }
+
+  /* ---------- Membership groups ---------- */
+  .membership-group { margin-top: 3.5rem; }
+
+  /* Benefits panel with accent bullets */
+  .membership .benefits {
+    margin-bottom: 1rem;
+    padding: 1.25rem 1.5rem;
+    background: var(--panel);
+    border-radius: var(--radius);
+  }
+
+  .membership .benefits ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .membership .benefits li {
+    position: relative;
+    margin: 0 0 0.5rem;
+    padding-left: 1.5rem;
+  }
+
+  .membership .benefits li:last-child { margin-bottom: 0; }
+
+  .membership .benefits li::before {
+    content: "";
+    position: absolute;
+    left: 0.2rem;
+    top: 0.62em;
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 50%;
+    background: var(--tone);
+  }
+
+  /* Tiers */
+  .membership-tier {
+    padding: 2rem 0;
+    /*border-bottom: 1px solid var(--line);*/
+  }
+
+  .membership-tier:last-child { border-bottom: 0; }
+
+  .membership-tier h4 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem 1rem;
+  }
+
+  .membership .price {
+    padding: 0.2rem 0.75rem;
+    font-size: 0.9rem;
+    font-weight: 700;
+    white-space: nowrap;
+    color: var(--tone);
+    border: 2px solid var(--tone);
+    border-radius: 999px;
+  }
+
+  .membership .tier-note {
+    padding: 0.6rem 0.9rem;
+    font-size: 0.95rem;
+    background: var(--panel);
+    border-left: 3px solid var(--tone);
+    border-radius: 0 6px 6px 0;
+  }
+
+  /* Pricing tables */
+  .membership .pricing-table {
+    width: 100%;
+    margin-top: 1.25rem;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .membership .pricing-table th,
+  .membership .pricing-table td {
+    padding: 0.6rem 0.75rem;
+    text-align: left;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .membership .pricing-table th {
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--muted);
+    border-bottom: 2px solid var(--tone);
+  }
+
+  .membership .pricing-table th:last-child,
+  .membership .pricing-table td:last-child { text-align: right; }
+
+  .membership .pricing-table td:last-child {
+    font-weight: 700;
+    color: var(--tone);
+  }
+
+  .membership .pricing-table tbody tr:nth-child(even) { background: var(--panel); }
+
+  /* Contact */
+  .membership-contact {
+    margin-top: 2.5rem;
+    padding: 1.5rem;
+    text-align: center;
+    background: var(--panel);
+    border-radius: var(--radius);
+  }
+
+  .membership-contact p { margin: 0; }
+  .membership-contact a { color: var(--mena); font-weight: 600; }
+
+  /* Keep anchor targets clear of a sticky header */
+  /* .membership [id] { scroll-margin-top: 6rem; } */
+
+  /* ---------- Responsive ---------- */
+  @media (max-width: 640px) {
+    .membership-nav { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .membership h2 { font-size: 1.5rem; }
+    .membership h3 { font-size: 1.3rem; }
+  }
+
+  @media (max-width: 400px) {
+    .membership-nav { grid-template-columns: 1fr; }
+    .membership-nav a { min-height: 0; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .membership-nav a,
+    .membership-nav .title { transition: none; }
+    .membership-nav a:hover,
+    .membership-nav a:focus-visible { transform: none; }
+  }
+</style>
+
+<section class="membership">
+  <h2>Thank you for your interest in becoming a MENA Theater Alliance member!</h2>
+  <p>We have four categories of membership:</p>
+
+  <ul class="membership-nav">
+    <li>
+      <a href="{{ .RelPermalink }}#mena-organizational">
+        <span class="kicker">MENA</span>
+        <span class="title">Organizational Membership</span>
+        <span class="from">$75–$500 / year</span>
+      </a>
+    </li>
+    <li>
+      <a href="{{ .RelPermalink }}#mena-individual">
+        <span class="kicker">MENA</span>
+        <span class="title">Individual Membership</span>
+        <span class="from">$50 / year</span>
+      </a>
+    </li>
+    <li class="is-ally">
+      <a href="{{ .RelPermalink }}#ally-organizational">
+        <span class="kicker">Ally</span>
+        <span class="title">Organizational Membership</span>
+        <span class="from">$100–$750 / year</span>
+      </a>
+    </li>
+    <li class="is-ally">
+      <a href="{{ .RelPermalink }}#ally-individual">
+        <span class="kicker">Ally</span>
+        <span class="title">Individual Membership</span>
+        <span class="from">$75 / year</span>
+      </a>
+    </li>
+  </ul>
+
+  <p class="muted">Please choose a membership based on the descriptions below.</p>
+
+  <!-- MENA Memberships -->
+  <section class="membership-group" id="mena">
+    <h3>MENA Organizations and Individuals</h3>
+
+    <div class="benefits">
+      <p class="eyebrow">Benefits</p>
+      <ul>
+        <li>Member profile on our site</li>
+        <li>Access to the MENA Theater Maker and Cultural Worker database</li>
+        <li>Opportunities listings in e-blasts, social media, and our online forum</li>
+        <li>Show promotions in e-blasts and social media</li>
+        <li>Discounts on MENATMA events and offerings</li>
+      </ul>
+    </div>
+
+    <article class="membership-tier" id="mena-organizational">
+      <h4>MENA Organizational Membership <span class="price">$75–$500 / yr</span></h4>
+      <p>This membership category is open to organizations that have MENA representation in their leadership, staff, and collaborators, as well as a history of arts and cultural work that is deeply connected to, and has positively impacted, MENA artists and audiences in their community.</p>
+
+      <a class="btn bg-secondary white mb4 raise br1" href="https://www.zeffy.com/en-US/ticketing/middle-eastern-north-african-theater-makers-alliance-incs-memberships">Join Now</a>
+
+
+      <p class="tier-note">The cost of a year-long membership is based on your budget size and includes three individual memberships for employees of your organization.</p>
+      <table class="pricing-table">
+        <thead>
+          <tr>
+            <th scope="col">Annual Budget</th>
+            <th scope="col">Membership Fee</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>Under $100K</td><td>$75</td></tr>
+          <tr><td>$100K–$200K</td><td>$100</td></tr>
+          <tr><td>$200K–$300K</td><td>$150</td></tr>
+          <tr><td>$300K–$400K</td><td>$200</td></tr>
+          <tr><td>$400K–$500K</td><td>$250</td></tr>
+          <tr><td>$500K–$1 million</td><td>$300</td></tr>
+          <tr><td>$1 million and above</td><td>$500</td></tr>
+        </tbody>
+      </table>
+
+    </article>
+
+    <article class="membership-tier" id="mena-individual">
+      <h4>MENA Individual Membership <span class="price">$50 / yr</span></h4>
+      <p>For individual artists, cultural workers, audience members, and supporters who identify as members of the MENA community.</p>
+      <a class="btn bg-secondary white mb4 raise br1" href="https://www.zeffy.com/en-US/ticketing/mena-individual-membership">Join Now</a>
+    </article>
+  </section>
+
+  <!-- Ally Memberships -->
+  <section class="membership-group is-ally" id="ally">
+    <h3>Ally (Non-MENA) Organizations and Individuals</h3>
+
+    <div class="benefits">
+      <p class="eyebrow">Benefits</p>
+      <ul>
+        <li>Member profile on our site</li>
+        <li>Access to the MENA Theater Maker and Cultural Worker database</li>
+        <li>Opportunities listings in e-blasts, social media, and our online forum for MENA-specific opportunities that benefit our community</li>
+        <li>Show promotions for MENA-centered productions</li>
+        <li>Discounts on public MENATMA events and offerings</li>
+      </ul>
+    </div>
+
+    <article class="membership-tier" id="ally-organizational">
+      <h4>Ally Organizational Membership <span class="price">$100–$750 / yr</span></h4>
+      <p>This membership is open to organizations that are interested in creating, supporting, and standing in solidarity with MENA theaters, artists, and cultural works.</p>
+      <a class="btn bg-primary white mb4 raise br1" href="https://www.zeffy.com/en-US/ticketing/ally-organizational-membership-by-budget-size">Join Now</a>
+
+      <p class="tier-note">The cost of a year-long membership is based on your budget size and includes three individual memberships for employees of your organization.</p>
+      <table class="pricing-table">
+        <thead>
+          <tr>
+            <th scope="col">Annual Budget</th>
+            <th scope="col">Membership Fee</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>Under $100K</td><td>$100</td></tr>
+          <tr><td>$100K–$200K</td><td>$200</td></tr>
+          <tr><td>$200K–$300K</td><td>$300</td></tr>
+          <tr><td>$300K–$400K</td><td>$400</td></tr>
+          <tr><td>$400K–$500K</td><td>$500</td></tr>
+          <tr><td>$500K–$1 million</td><td>$600</td></tr>
+          <tr><td>$1 million and above</td><td>$750</td></tr>
+        </tbody>
+      </table>
+    </article>
+
+    <article class="membership-tier" id="ally-individual">
+      <h4>Ally Individual Membership <span class="price">$75 / yr</span></h4>
+      <p>This membership is open to any artist, cultural worker, audience member, and supporter interested in creating, supporting, and standing in solidarity with MENA theaters, artists, and cultural workers.</p>
+      <a class="btn bg-primary white mb4 raise br1" href="https://www.zeffy.com/en-US/ticketing/ally-individual-membership">Join Now</a>
+    </article>
+  </section>
+
+  <footer class="membership-contact">
+    <span>For questions regarding MENATMA membership, please contact our General Manager, Sarah Dahnke, at <a href="mailto:sarah@menatheater.org">sarah@menatheater.org</a>.</span>
+  </footer>
+</section>
+
+
+</div>
+
+{{ end }}
