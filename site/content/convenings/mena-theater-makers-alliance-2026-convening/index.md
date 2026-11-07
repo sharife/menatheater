@@ -39,7 +39,7 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 
 10:00-10:45am\
 **CONVENING WELCOME**\
-**Potrero Stage** (Livestreamed on HowlRound)\
+**Potrero Stage [(Watch this session on HowlRound)](https://howlround.com/happenings/protecting-dissent-celebrating-middle-eastern-and-north-african-theatre)**\
 *Don’t miss the official start of the convening featuring MENATMA Board Chair Denmo Ibrahim, Golden Thread Artistic Director Nabra Nelson, MENATMA Programming Chair Debórah Eliezer and meet our new General Manager, Sarah Dahnke. Get energized for the weekend and hear about MENATMA’s exciting updates and programs!*
 
 10:45-11:45am\
