@@ -45,7 +45,7 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 10:45-11:45am\
 **PROTECTING DISSENT: CELEBRATING VOICES FROM THE MIDDLE EAST AND NORTH AFRICA**\
 **Moderator: Catherine Coray; Panelists: Andrea Assaf,  Nabra Nelson, and Yussef El Guindi**\
-**Potrero Stage** (Livestreamed on HowlRound, Hybrid Session)\
+**Potrero Stage [(Watch this session on HowlRound)](https://howlround.com/happenings/protecting-dissent-celebrating-middle-eastern-and-north-african-theatre)**\
 *How does MENA theater respond to the systemic silencing of our community? How do we protect dissent today? As theater makers, we must uplift and defend the voices of artists in our community who are boldly expressing truths in a time of growing censorship and suppression. This session offers a robust conversation on the theme of this year’s convening with established leaders and artists working in MENA theater today.*
 
 11:45-11:55am \
@@ -70,7 +70,7 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 2:45-4:00pm\
 **AWARDEE INTRODUCTIONS AND SHARING**\
 **Facilitators: MENATMA General Manager Sarah Dahnke and MENATMA Board Member Torange Yeghiazarian**\
-**Potrero Stage** (Livestreamed on HowlRound)\
+**Potrero Stage [(Watch this session on HowlRound)](https://howlround.com/happenings/protecting-dissent-celebrating-middle-eastern-and-north-african-theatre)**\
 *Introducing the inaugural Awardees of the [MENA Theater Makers Fund](https://menatheater.org/announcements/announcing-mena-theater-makers-fund-awardees/), MENATMA’s historic funding initiative, the first of its kind for MENA artists and organizations that provides unprecedented and significant investment in MENA theater in the U.S. This session will feature and celebrate a number of Awardees out of 18 total recipients who represent some of the most impactful MENA and SWANA voices working in American theater today.*  
 
 4:00-4:15pm\
@@ -79,7 +79,7 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 4:15-5:30pm\
 **FORGING OUR PATHS AS MENA ARTISTS**\
 **Moderator: Aidaa Peerzada; Panelists include Nora el Samahy, Nakissa Etemad, and Sona Tatoyan of Awardee Hakawati** \
-**Potrero Stage** (Livestreamed on HowlRound)\
+**Potrero Stage [(Watch this session on HowlRound)](https://howlround.com/happenings/protecting-dissent-celebrating-middle-eastern-and-north-african-theatre)**\
 *MENA theater makers of various disciplines share how they began their careers, adapted, and evolved to make their mark in the American theater landscape. What is the collective impact made by our community, and how do we preserve our collective wisdom? How do we actively resist the erasure of our history, and break the ‘silo’ to become a consistent part of the mainstream? What can we incorporate from our theatrical and cultural pasts to help us enrich today's theater culture?* 
 
 5:30-5:45pm \
@@ -116,7 +116,7 @@ Protecting Dissent is co-produced by **MENATMA**, **Art2Action**, and **Golden T
 10:00am-12:00pm\
 **CREATING IN CRISIS**\
 **Moderator: MENATMA Board Member Amal Bisharat; Panelists: Abdu al-Ghafur, Samer Al-Saber, Sahba Aminikia of Awardee Flying Carpet Festival, Sahar Assaf, Deniz Khateri, and Zoe Rabinowitz of Awardee Yaa Samar!** \
-**Potrero Stage** (Livestreamed on HowlRound)\
+**Potrero Stage [(Watch this session on HowlRound)](https://howlround.com/happenings/protecting-dissent-celebrating-middle-eastern-and-north-african-theatre)**\
 *This hybrid session brings together artists from Palestine, Lebanon, Iran, and Sudan to explore what it means to create when crisis is not a distant event but an ongoing reality. How does art respond to moments that can feel impossible to represent? What does it mean to make work while remaining connected to people and places experiencing violence and upheaval? How do artists navigate the expectations placed on them to explain, document, mourn, resist, or speak for a place?*
 
 12:00-1:30pm\
