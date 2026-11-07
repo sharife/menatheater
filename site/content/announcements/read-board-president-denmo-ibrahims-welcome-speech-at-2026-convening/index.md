@@ -1,5 +1,5 @@
 ---
-title: Read Board President Denmo Ibrahim's Welcome Speech at 2026 Convening
+title: Read Board President Denmo Ibrahim's Welcome Speech at Our 2026 Convening
 date: 2026-11-07T16:09:26.324Z
 description: American Theatre Magazine publishes the full text with a moving
   intro by Torange Yeghiazarian.
