@@ -5,7 +5,7 @@ description: American Theatre Magazine publishes the full text with a moving
   intro by Torange Yeghiazarian.
 image: group-website.jpg
 ---
-#### MENA Theater Makers: We Can Make the Home We've Been Looking For
+### MENA Theater Makers: We Can Make the Home We've Been Looking For
 
 *American Theatre Magazine* published **[the full text of Board President Denmo Ibrahim's welcome speech](https://www.americantheatre.org/2026/11/05/mena-theatremakers-we-can-make-the-home-weve-been-looking-for/)** at our 2026 Fall Convening — with an intro by MENATMA Board Member and Golden Thread Productions Founding Artistic Director Torange Yeghiazarian.
 
@@ -13,6 +13,6 @@ image: group-website.jpg
 
 MENA Theater Makers Alliance 2026 Fall Convening took place in San Francisco on October 23-25, 2026. “Protecting Dissent: Celebrating Voices from the Middle East and North Africa” was co-produced by MENA Theater Makers Alliance, Golden Thread Productions, and Art2Action. 
 
-#### **[Read the full text on here.](https://www.americantheatre.org/2026/11/05/mena-theatremakers-we-can-make-the-home-weve-been-looking-for/)**
+### **[Read the full text on here.](https://www.americantheatre.org/2026/11/05/mena-theatremakers-we-can-make-the-home-weve-been-looking-for/)**
 
 (Photo by Jared Randolph)
