@@ -9,9 +9,11 @@ description: "Join us at “Protecting Dissent: Celebrating Voices from the Midd
   miss your chance to join this spirited opportunity to share stories, learn
   about fellow cultures, and discover new ways of collaborating and honing our
   skills."
-image: website.jpg
+image: group-website.jpg
 ---
 Presented in conjunction with Golden Thread Productions’s ReOrient 2026 Festival, this year’s Convening focuses on an essential question: “How do we protect dissent today?” As theater makers, we must uplift and defend the voices of artists in our community, who are boldly expressing truths in a time of growing censorship and suppression. 
+
+![](website.jpg)
 
 Following MENATMA’s groundbreaking MENA Theater Makers Fund announcement earlier this year, the Convening will feature and celebrate the 18 awardees who represent some of the most impactful MENA and SWANA voices working in American Theatre today.
 
